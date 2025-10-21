@@ -96,13 +96,13 @@
 				const vh = window.innerHeight;
 
 				const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
-				let ratio = 9 / 16;
+				let ratio;
 
-				// if (isMobile) {
-				// 	ratio = 9 / 16;
-				// } else {
-				// 	ratio = 16 / 9;
-				// }
+				if (isMobile) {
+					ratio = 9 / 16;
+				} else {
+					ratio = 16 / 9;
+				}
 
 				let width = vw;
 				let height = vw * ratio;
