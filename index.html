@@ -3,7 +3,7 @@
 
 <head>
 	<meta charset="utf-8">
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>ELFGame</title>
 	<style>
 		html,
@@ -17,7 +17,7 @@
 		}
 
 		div#gameContainer {
-			position: absolute;
+			position: fixed;
 			top: 0;
 			left: 0;
 			width: 100%;
@@ -30,11 +30,11 @@
 		}
 
 		div#gameContainer canvas {
+			display: block;
 			width: 100vw;
 			height: calc(100vw * 9 / 16);
-			max-height: 100vh;
 			max-width: calc(100vh * 16 / 9);
-			display: block;
+			max-height: 100vh;
 		}
 
 		div#gameContainer canvas[data-pixel-art="true"] {
@@ -50,6 +50,10 @@
 			-ms-interpolation-mode: nearest-neighbor;
 		}
 	</style>
+	<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>
+	<script>
+		window.supabase = supabase.createClient('https://dbmuainjvjhqbsvlzskb.supabase.co', 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRibXVhaW5qdmpocWJzdmx6c2tiIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTAxMzI0MzksImV4cCI6MjA2NTcwODQzOX0.vJRPATzQcWTSP6aZ64xezzrpeSbuIdllf-ZNuQbPwks');
+	</script>
 </head>
 
 <body>
@@ -85,13 +89,34 @@
   				canvas.style.width = "100%";
   				canvas.style.height = "100%";
 			}
+			function resizeGame() {
+				const container = document.getElementById('gameContainer');
+				const canvas = container.querySelector('canvas');
+				const vw = window.innerWidth;
+				const vh = window.innerHeight;
+				const ratio = 9 / 16;
+
+				let width = vw;
+				let height = vw * ratio;
+				if (height > vh) {
+					height = vh;
+					width = vh / ratio;
+				}
+
+				canvas.style.width = width + "px";
+				canvas.style.height = height + "px";
+				container.style.width = vw + "px";
+				container.style.height = vh + "px";
+			}
+
 			createUnityInstance(canvas, config, progressHandler).then(function (instance) {
 				canvas = instance.Module.canvas;
-				onResize();
+				resizeGame();
 			});
-			window.addEventListener('resize', onResize);
-			onResize();
-
+			window.addEventListener('resize', resizeGame);
+			window.addEventListener('orientationchange', resizeGame);
+			window.addEventListener('load', resizeGame);
+			//onResize();
 			if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
 				// Mobile device style: fill the whole browser client area with the game canvas:
 				const meta = document.createElement('meta');
