@@ -115,6 +115,10 @@
 				canvas.style.height = height + "px";
 				container.style.width = vw + "px";
 				container.style.height = vh + "px";
+
+				if (typeof unityInstance !== "undefined") {
+    				unityInstance.SendMessage("Main Camera", "UpdateCamera");
+  				}
 			}
 
 			createUnityInstance(canvas, config, progressHandler).then(function (instance) {
