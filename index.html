@@ -99,16 +99,20 @@
 				let ratio;
 
 				if (isMobile) {
-					ratio = 16 / 9;
-				} else {
 					ratio = 9 / 16;
+				} else {
+					ratio = 16 / 9;
 				}
 
-				let width = vw;
-				let height = vw * ratio;
-				if (height > vh) {
+				let width, height;
+
+				if(vw / vh > ratio){
 					height = vh;
-					width = vh / ratio;
+					width = vh * ratio;
+				}
+				else {
+					width = vw;
+					height = vw / ratio;
 				}
 
 				canvas.style.width = width + "px";
