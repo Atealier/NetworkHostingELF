@@ -31,10 +31,10 @@
 
 		div#gameContainer canvas {
 			display: block;
-			width: 100vw;
-			height: calc(100vw * 9 / 16);
-			max-width: calc(100vh * 16 / 9);
-			max-height: 100vh;
+			position: absolute;
+			margin: auto;
+			max-width: 100%;
+			max-height: 100%;
 		}
 
 		div#gameContainer canvas[data-pixel-art="true"] {
@@ -98,11 +98,12 @@
 				const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
 				let ratio;
 
-				if (isMobile) {
-					ratio = 9 / 16;
-				} else {
+				if(vw < vh) {
+					ratio = 3 / 4;
+				} else{
 					ratio = 16 / 9;
 				}
+				
 
 				let width, height;
 
