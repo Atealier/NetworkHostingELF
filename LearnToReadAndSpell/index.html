@@ -133,6 +133,19 @@
 				canvas = instance.Module.canvas;
 				resizeGame();
 			});
+
+			function UnlockUnityAudio() {
+    			if (typeof window !== "undefined" && window.audioContext) {
+        			if (window.audioContext.state === "suspended") {
+            			window.audioContext.resume().then(() => {
+                		console.log("AudioContext resumed successfully");
+            		});
+        		}
+    		}
+			}
+
+			document.addEventListener("touchend", UnlockUnityAudio, true);
+			document.addEventListener("click", UnlockUnityAudio, true);
 			window.addEventListener('resize', resizeGame);
 			window.addEventListener('orientationchange', resizeGame);
 			window.addEventListener('load', resizeGame);
