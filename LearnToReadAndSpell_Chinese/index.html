@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<title>ELFGame</title>
+	<style>
+		html,
+		body {
+			background: #000;
+			width: 100%;
+			height: 100%;
+			margin: 0;
+			padding: 0;
+			overflow: hidden;
+		}
+
+		div#gameContainer {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			display: flex;
+			justify-content: center;
+			align-items: center;
+			background: black;
+			overflow: hidden;
+		}
+
+		div#gameContainer canvas {
+			display: block;
+			position: absolute;
+			margin: auto;
+			max-width: 100%;
+			max-height: 100%;
+		}
+
+		div#gameContainer canvas[data-pixel-art="true"] {
+			position: absolute;
+			image-rendering: optimizeSpeed;
+			image-rendering: -webkit-crisp-edges;
+			image-rendering: -moz-crisp-edges;
+			image-rendering: -o-crisp-edges;
+			image-rendering: crisp-edges;
+			image-rendering: -webkit-optimize-contrast;
+			image-rendering: optimize-contrast;
+			image-rendering: pixelated;
+			-ms-interpolation-mode: nearest-neighbor;
+		}
+	</style>
+	<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>
+	<script src="https://unpkg.com/eruda"></script>
+<script>
+    window.addEventListener('load', function () {
+        eruda.init();
+    });
+</script>
+</head>
+
+<body>
+	<div id="gameContainer">
+		<canvas id="unity-canvas" data-pixel-art=""></canvas>
+		<script src="Build/LearnToReadAndSpell_Chinese.loader.js"></script>
+		<script>
+			var canvas = document.querySelector("#unity-canvas");
+			var config = {
+				dataUrl: "Build/LearnToReadAndSpell_Chinese.data",
+				frameworkUrl: "Build/LearnToReadAndSpell_Chinese.framework.js",
+				codeUrl: "Build/LearnToReadAndSpell_Chinese.wasm",
+				streamingAssetsUrl: "StreamingAssets",
+				companyName: "Early Learning's Fun",
+				productName: "ELFGame",
+				productVersion: "1.0",
+			};
+			var scaleToFit;
+			try {
+				scaleToFit = !!JSON.parse("none");
+			} catch (e) {
+				scaleToFit = true;
+			}
+			function progressHandler(progress) {
+				var percent = progress * 100 + '%';
+				canvas.style.background = 'linear-gradient(to right, white, white ' + percent + ', transparent ' + percent + ', transparent) no-repeat center';
+				canvas.style.backgroundSize = '100% 1rem';
+			}
+			function onResize() {
+  				var container = canvas.parentElement;
+  				container.style.width = "100%";
+  				container.style.height = "100%";
+  				canvas.style.width = "100%";
+  				canvas.style.height = "100%";
+			}
+			function resizeGame() {
+				const container = document.getElementById('gameContainer');
+				const canvas = container.querySelector('canvas');
+				const vw = window.innerWidth;
+				const vh = window.innerHeight;
+
+				const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+				let ratio;
+
+				if(vw < vh) {
+					ratio = 3 / 4;
+				} else{
+					ratio = 16 / 9;
+				}
+				
+
+				let width, height;
+
+				if(vw / vh > ratio){
+					height = vh;
+					width = vh * ratio;
+				}
+				else {
+					width = vw;
+					height = vw / ratio;
+				}
+
+				canvas.style.width = width + "px";
+				canvas.style.height = height + "px";
+				container.style.width = vw + "px";
+				container.style.height = vh + "px";
+
+				if (typeof unityInstance !== "undefined") {
+    				unityInstance.SendMessage("Main Camera", "UpdateCamera");
+  				}
+			}
+
+			createUnityInstance(canvas, config, progressHandler).then(function (instance) {
+				canvas = instance.Module.canvas;
+				resizeGame();
+			});
+
+			function UnlockUnityAudio() {
+    			if (typeof window !== "undefined" && window.audioContext) {
+        			if (window.audioContext.state === "suspended") {
+            			window.audioContext.resume().then(() => {
+                		console.log("AudioContext resumed successfully");
+            		});
+        		}
+    		}
+			}
+
+			document.addEventListener("touchend", UnlockUnityAudio, true);
+			document.addEventListener("click", UnlockUnityAudio, true);
+			window.addEventListener('resize', resizeGame);
+			window.addEventListener('orientationchange', resizeGame);
+			window.addEventListener('load', resizeGame);
+		</script>
+	</div>
+</body>
+
+</html>
