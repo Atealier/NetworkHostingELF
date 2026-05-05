@@ -51,6 +51,7 @@
 		}
 	</style>
 	<script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js"></script>
+	<script src="https://cdn.jsdelivr.net/npm/hanzi-writer@3.5/dist/hanzi-writer.min.js"></script>
 	<script src="https://unpkg.com/eruda"></script>
 <script>
     window.addEventListener('load', function () {
@@ -151,6 +152,54 @@
 			window.addEventListener('load', resizeGame);
 		</script>
 	</div>
+	<div id="hanzi-container" style="
+		width: 850px;
+		height: 500px;
+    	display: flex;
+    	justify-content: center;
+    	align-items: center;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -60%);
+		background: white;
+	"></div>
+	
+	<script>
+		let writer = null;
+
+		function initHanzi(character) {
+			const container = document.getElementById("hanzi-container");
+			container.innerHTML = "";
+
+			writer = HanziWriter.create(container, character, {
+				width: 450,
+				height: 450
+			});
+		}
+
+		function setHanzi(character) {
+			const container = document.getElementById("hanzi-container");
+			container.innerHTML = "";
+
+			writer = null;
+
+			container.style.display = "block";
+
+			writer = HanziWriter.create(container, character, {
+				width: 300,
+				height: 300
+			});
+		}
+
+		function showHanziContainer() {
+			document.getElementById("hanzi-container").style.display = "flex";
+		}
+
+		function hideHanziContainer() {
+			document.getElementById("hanzi-container").style.display = "none";
+		}
+	</script>
 </body>
 
 </html>
