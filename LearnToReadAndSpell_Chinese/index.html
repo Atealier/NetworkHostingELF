@@ -183,7 +183,10 @@
 
 			const resultantWidth = Math.max(Math.min(availableWidth, containerWidth), minWidth);
 			const resultantHeight = Math.max(Math.min(availableHeight, containerHeight), minHeight);
-
+			
+			console.log("resultantWith: ", resultantWidth);
+			console.log("resultantHeight: ", resultantHeight);
+			
 			container.style.width = resultantWidth + "px";
 			container.style.height = resultantHeight + "px";
 			writer = HanziWriter.create(container, character, {
