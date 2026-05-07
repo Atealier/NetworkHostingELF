@@ -172,9 +172,17 @@
 			const container = document.getElementById("hanzi-container");
 			container.innerHTML = "";
 
+			const baseSize = 450;
+			const padding = 0.85;
+			const minSize = 150;
+
+			const available = Math.min(window.innerWidth, window.innerheight);
+			const scaled = available * padding;
+
+			const resultantSize = Math.max(Math.min(scaled, baseSize), minSize);
 			writer = HanziWriter.create(container, character, {
-				width: 450,
-				height: 450
+				width: resultantSize,
+				height: resultantSize
 			});
 		}
 
