@@ -153,8 +153,8 @@
 		</script>
 	</div>
 	<div id="hanzi-container" style="
-		width: 850px;
-		height: 500px;
+		width: 45vw;
+		height: 54vh;
     	display: flex;
     	justify-content: center;
     	align-items: center;
@@ -172,26 +172,12 @@
 			const container = document.getElementById("hanzi-container");
 			container.innerHTML = "";
 
-			const containerHeight = 500;
-			const containerWidth = 850;
-			const padding = 0.85;
-			const minHeight = 300;
-			const minWidth = 510;
-			
-			const availableWidth = containerWidth * padding;
-			const availableHeight = containerHeight * padding;
+			const size = Math.min(container.offsetWidth, container.offsetHeight);
 
-			const resultantWidth = Math.max(Math.min(availableWidth, containerWidth), minWidth);
-			const resultantHeight = Math.max(Math.min(availableHeight, containerHeight), minHeight);
-			
-			console.log("resultantWith: ", resultantWidth);
-			console.log("resultantHeight: ", resultantHeight);
-			
-			container.style.width = resultantWidth + "px";
-			container.style.height = resultantHeight + "px";
+			const targetSize = size * 0.75;
 			writer = HanziWriter.create(container, character, {
-				width: 450,
-				height: 450
+				width: targetSize,
+				height: targetSize
 			});
 		}
 
