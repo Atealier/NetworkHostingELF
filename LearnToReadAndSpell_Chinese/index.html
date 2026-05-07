@@ -172,17 +172,23 @@
 			const container = document.getElementById("hanzi-container");
 			container.innerHTML = "";
 
-			const baseSize = 450;
+			const containerHeight = 500;
+			const containerWidth = 850;
 			const padding = 0.85;
-			const minSize = 150;
+			const minHeight = 300;
+			const minWidth = 510;
+			
+			const availableWidth = containerWidth * padding;
+			const availableHeight = containerHeight * padding;
 
-			const available = Math.min(window.innerWidth, window.innerheight);
-			const scaled = available * padding;
+			const resultantWidth = Math.max(Math.min(availableWidth, containerWidth), minWidth);
+			const resultantHeight = Math.max(Math.min(availableHeight, containerHeight), minHeight);
 
-			const resultantSize = Math.max(Math.min(scaled, baseSize), minSize);
+			container.style.width = resultantWidth + "px";
+			container.style.height = resultantHeight + "px";
 			writer = HanziWriter.create(container, character, {
-				width: resultantSize,
-				height: resultantSize
+				width: 450,
+				height: 450
 			});
 		}
 
