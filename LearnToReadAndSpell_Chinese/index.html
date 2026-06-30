@@ -169,16 +169,20 @@
 		let writer = null;
 
 		function initHanzi(character) {
+
 			const container = document.getElementById("hanzi-container");
 			container.innerHTML = "";
 
 			const size = Math.min(container.offsetWidth, container.offsetHeight);
 
 			const targetSize = size * 0.8;
+			
 			writer = HanziWriter.create(container, character, {
 				width: targetSize,
 				height: targetSize
 			});
+
+			console.log("Writer created: ", writer);
 		}
 
 		function setHanzi(character) {
