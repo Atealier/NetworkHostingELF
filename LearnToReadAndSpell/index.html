@@ -146,14 +146,6 @@
 
 			document.addEventListener("touchend", UnlockUnityAudio, true);
 			document.addEventListener("click", UnlockUnityAudio, true);
-			document.addEventListener("visibilitychange", function() {
-				if (document.visibilityState === "hidden") {
-					//sendPlaytimeUpdate();
-					console.log("page hidden, checking data... ");
-					console.log("User ID: " + window._userid);
-					console.log("Timer pointer: " + window._timer);
-				}
-			}, true);
 			window.addEventListener('resize', resizeGame);
 			window.addEventListener('orientationchange', resizeGame);
 			window.addEventListener('load', resizeGame);
