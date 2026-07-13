@@ -142,17 +142,6 @@
             		});
         		}
 
-				if(typeof window !== "undefined") {
-					window._tryAgainAudio.volume = 0;
-					window._tryAgainAudio.play().then(() => {
-						window._tryAgainAudio.pause();
-						window._tryAgainAudio.currentTime = 0;
-						window._tryAgainAudio.volume = 0.75;
-						console.log("Try Again Audio unlocked successfully");
-					}).catch((error) => {
-						console.error("Error unlocking Try Again Audio:", error);
-					});
-				}
     		}
 			}
 
