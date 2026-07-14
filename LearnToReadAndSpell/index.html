@@ -160,6 +160,20 @@
 			window.addEventListener('load', resizeGame);
 		</script>
 	</div>
+	<video id="feedback-video"
+		playsinline
+		disablePictureInPicture
+  		style="
+		position: fixed;
+		top: 50%; 
+		left:50%;
+		transform: translate(-50%, -50%);
+		width: 640px; 
+		height: 360px; 
+		z-index: 9999;
+		display: none;
+		">
+	</video>
 </body>
 
 </html>
