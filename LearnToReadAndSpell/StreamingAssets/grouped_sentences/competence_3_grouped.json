@@ -1,0 +1,106 @@
+{
+  "competence": 3,
+  "sourceTab": "Stage 4",
+  "sourceStage": "4",
+  "totalSentences": 40,
+  "groupSize": 5.0,
+  "groupCount": 8,
+  "groups": [
+    {
+      "groupId": 1,
+      "startIndex": 0,
+      "count": 5,
+      "sentences": [
+        "We live near the sea.",
+        "I play in the park.",
+        "The line is so long.",
+        "Mum makes hot food for us. It sits on the heat for an hour. She adds just a bit of salt. We eat it all up.",
+        "I have a plan for my big day. I note it all on a list. I hope for lots of fun and luck!"
+      ]
+    },
+    {
+      "groupId": 2,
+      "startIndex": 5,
+      "count": 5,
+      "sentences": [
+        "We jump on the bed.",
+        "I hide by the door.",
+        "We run up the hill.",
+        "My name is on my cup. Dad has one just the same. The big one is his and the red one is mine.",
+        "It is race day at the park! I run past the pond and up the hill. My leg hurts a bit but I win! I jump for joy at the end."
+      ]
+    },
+    {
+      "groupId": 3,
+      "startIndex": 10,
+      "count": 5,
+      "sentences": [
+        "I make a big cake.",
+        "I like my new toy.",
+        "I can hear the band.",
+        "The moon is high up in the dark sky. It is late and I must rest. Papa reads one last page of the book and I kiss him. It was a good day.",
+        "I found a nest in a hole near the path. The bird needs to be safe. I move away and let it be."
+      ]
+    },
+    {
+      "groupId": 4,
+      "startIndex": 15,
+      "count": 5,
+      "sentences": [
+        "The rain fell on my head.",
+        "The rock is by the pond.",
+        "My room is big and nice.",
+        "We play a fun game at home. I hide in a huge box and keep my head down. Dad looks all over and can not find me!",
+        "I had an idea for a toy boat and a red sail! We let it go on the pond. We saw it rise and fall, rise and fall. It did not go down at all! I kept my boat by my bed."
+      ]
+    },
+    {
+      "groupId": 5,
+      "startIndex": 20,
+      "count": 5,
+      "sentences": [
+        "He came last in the race.",
+        "I have a plan to win!",
+        "I just hope you can come!",
+        "The poor cat was lost. We put up a post to help find it. A good man saw the mark on its neck and its pink nose. He came to us with the cat in his arms. I am so glad to have it back!",
+        "Mama and I buy milk and meat at the sale. I hold the bag all the way back. I love to help. Mama says we make a good pair!"
+      ]
+    },
+    {
+      "groupId": 6,
+      "startIndex": 25,
+      "count": 5,
+      "sentences": [
+        "I see a rose on the path.",
+        "I note the date on the page.",
+        "I pick a pink hat for her.",
+        "It was a long ride down the road once more. The rain fell as we passed many homes. I knew the way and needed no map! I picked a lot of pink roses at the end of the ride.",
+        "The main rule of the game is to be fair. I said it out loud so all can hear. If I lose a game, it is fine and I mean it."
+      ]
+    },
+    {
+      "groupId": 7,
+      "startIndex": 30,
+      "count": 5,
+      "sentences": [
+        "Do you mind if I sit here?",
+        "Once the rain ends, we can go out.",
+        "Mama and I made a cake!",
+        "I pull out a roll of rope from my bag and tie it on the big rock. We make a fine camp by the lake. Our coats are hung on a line to dry.",
+        "My cat is part of my life. I like to lift my cat onto the bed and rest next to it. I also save a bit of food for my cat. It used to sit by me if I sang. Some say a cat has nine lives. I hope it is so. My cat has left me, and I miss him so much."
+      ]
+    },
+    {
+      "groupId": 8,
+      "startIndex": 35,
+      "count": 5,
+      "sentences": [
+        "I hold my baby cat.",
+        "Only dad can lift the big box.",
+        "I know the rule of the game.",
+        "My room is in a big mess. I pack my toys into the box and open the door to air the room.",
+        "The king in my book is a good king. He leads his men over many miles and he meets a kind lady along the way."
+      ]
+    }
+  ]
+}

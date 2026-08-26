@@ -1,0 +1,114 @@
+{
+  "competence": 1,
+  "sourceTab": "Stage 1-2",
+  "sourceStage": "1-2",
+  "totalSentences": 48,
+  "groupSize": 6.0,
+  "groupCount": 8,
+  "groups": [
+    {
+      "groupId": 1,
+      "startIndex": 0,
+      "count": 6,
+      "sentences": [
+        "The cat sat.",
+        "We go up.",
+        "It is hot.",
+        "He got mad.",
+        "It is fun.",
+        "You did it!"
+      ]
+    },
+    {
+      "groupId": 2,
+      "startIndex": 6,
+      "count": 6,
+      "sentences": [
+        "Try it now.",
+        "We met Tim.",
+        "The cow is big.",
+        "My dog can run.",
+        "The pig is fat.",
+        "The boy is wet."
+      ]
+    },
+    {
+      "groupId": 3,
+      "startIndex": 12,
+      "count": 6,
+      "sentences": [
+        "My toy is new.",
+        "I see the fox.",
+        "The sun is out.",
+        "I eat an egg.",
+        "Her hat is red.",
+        "I can win it!"
+      ]
+    },
+    {
+      "groupId": 4,
+      "startIndex": 18,
+      "count": 6,
+      "sentences": [
+        "His cup has tea.",
+        "Do not cry now.",
+        "I buy a pie.",
+        "Say hi to her.",
+        "Get on the bus.",
+        "I own a map."
+      ]
+    },
+    {
+      "groupId": 5,
+      "startIndex": 24,
+      "count": 6,
+      "sentences": [
+        "I hug my pet.",
+        "Fit in the box.",
+        "I rub my ear.",
+        "I am six now!",
+        "Go to the end!",
+        "It is my art."
+      ]
+    },
+    {
+      "groupId": 6,
+      "startIndex": 30,
+      "count": 6,
+      "sentences": [
+        "Wow, I won it!",
+        "She has a job.",
+        "Dad and I ran far.",
+        "Mum has a big bag.",
+        "The owl can fly low.",
+        "The ox ate a lot."
+      ]
+    },
+    {
+      "groupId": 7,
+      "startIndex": 36,
+      "count": 6,
+      "sentences": [
+        "We pay for the bag.",
+        "The man can fix it.",
+        "I lay on my bed.",
+        "He is in the car.",
+        "We row out to sea.",
+        "I add up to ten."
+      ]
+    },
+    {
+      "groupId": 8,
+      "startIndex": 42,
+      "count": 6,
+      "sentences": [
+        "Cut the fig for me.",
+        "Yes, I set it up.",
+        "Tie the box up now.",
+        "Let us hop off the bus.",
+        "I ask him to sit too.",
+        "We sit on top of the bed."
+      ]
+    }
+  ]
+}

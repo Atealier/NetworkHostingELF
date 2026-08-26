@@ -1,0 +1,106 @@
+{
+  "competence": 4,
+  "sourceTab": "Stage 5",
+  "sourceStage": "5",
+  "totalSentences": 40,
+  "groupSize": 5.0,
+  "groupCount": 8,
+  "groups": [
+    {
+      "groupId": 1,
+      "startIndex": 0,
+      "count": 5,
+      "sentences": [
+        "My skin felt too dry.",
+        "Mum sent me to the shop.",
+        "We wait at the bus stop.",
+        "Papa told me of a brave chief. The chief kept his men safe and they were all glad. I wish to be brave too.",
+        "Snow falls all week. I want to play, so I put on my warm coat. We make a big snowman out back. My toes are cold but I am glad to have fun!"
+      ]
+    },
+    {
+      "groupId": 2,
+      "startIndex": 5,
+      "count": 5,
+      "sentences": [
+        "My dog has soft brown ears.",
+        "The tall boy can help me.",
+        "The cold snow fell all day.",
+        "The wind woke me up. I began to hear it just above my room. I went to check the time. It was six. Time moved slowly. I took each step with care and went back to bed. Soon I saw the sun again.",
+        "I won an award this year! Mum and dad agreed I did my best, and they allowed me to buy a gift that I want. Yeah! What can a child ask for? Toys, yes, toys!"
+      ]
+    },
+    {
+      "groupId": 3,
+      "startIndex": 10,
+      "count": 5,
+      "sentences": [
+        "My cat has a long tail.",
+        "I wish for a new toy.",
+        "I want more cake and milk.",
+        "I wake up and wash my face. I brush my hair and put on my black shoes. I wear them on most days. Then I take my bag, and mum and I walk to the bus stop. We wait and talk. When the bus comes, I get on and find a seat.",
+        "We play chase in the yard. My dog runs after me, and I turn and chase him! He is so glad, and he runs after his tail when we stop! We slip on the wet path. We have so much fun!"
+      ]
+    },
+    {
+      "groupId": 4,
+      "startIndex": 15,
+      "count": 5,
+      "sentences": [
+        "My coat keeps me so warm.",
+        "I wash my face and hands.",
+        "Yeah, we won the big game!",
+        "I carry my blocks into the room. I build a fine ship with them! It is true art, mum says! I once took an hour to build such a ship, but now I am fast. I tell mum to come and see.",
+        "Our class had a test on new words, and we all did well. So we put on a word show for our mums and dads! I read my best words out loud, like a real star. They cheered and cheered!"
+      ]
+    },
+    {
+      "groupId": 5,
+      "startIndex": 20,
+      "count": 5,
+      "sentences": [
+        "My mum makes the best cake.",
+        "We rest and eat at break time.",
+        "The soil is good for the rose.",
+        "Mum and I walk along the path. I am not alone. I spot a fat cat below the big red sign. The cat sits ahead of us, glad in the sun. I like being out with mum.",
+        "Each April, we go to a farm. I pick red apples for mum. We sort the apples by size, and the farm sells some at its shop. Mum makes a pie at home."
+      ]
+    },
+    {
+      "groupId": 6,
+      "startIndex": 25,
+      "count": 5,
+      "sentences": [
+        "I build a home with each block.",
+        "We went to the sea last year.",
+        "I sit on the old chair made of wood.",
+        "My pet bunny is soft and brown. It hops onto my seat and sits by me. I make it my job to feed it good food each day. Candy is for me, not for pets! I am sure it is glad.",
+        "A tiny chick lives in the nest. One day it will fly away into the wild. I sing a song and it seems to like it."
+      ]
+    },
+    {
+      "groupId": 7,
+      "startIndex": 30,
+      "count": 5,
+      "sentences": [
+        "The road home is very wide.",
+        "The bird flew high above me.",
+        "We play again in the park.",
+        "I bring the bowl and the tools for mum. We begin to make the bread. An egg rolls off the top, but I catch it just in time! The bread comes out thin on one side, but it is still so good. We send some to the man next door.",
+        "As it is about to rain, our team takes a vote. We all vote to stop the game as it is not safe to play on."
+      ]
+    },
+    {
+      "groupId": 8,
+      "startIndex": 35,
+      "count": 5,
+      "sentences": [
+        "The bus is just up ahead.",
+        "We go along the long road.",
+        "I agree that dogs are the best.",
+        "We went on a trip to a town in the west. Dad and I swam in a wide lake. Then we sat by a very tall tree that grew over the old town wall, and we took in the view. We stayed till the sun set.",
+        "I had a big board made of wood. I made it red all over with a brush, built the sides and put a chart on it. The rest of the class asked me to show them the work that I had done thus far."
+      ]
+    }
+  ]
+}

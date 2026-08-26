@@ -1,0 +1,122 @@
+{
+  "competence": 2,
+  "sourceTab": "Stage 3",
+  "sourceStage": "3",
+  "totalSentences": 56,
+  "groupSize": 7.0,
+  "groupCount": 8,
+  "groups": [
+    {
+      "groupId": 1,
+      "startIndex": 0,
+      "count": 7,
+      "sentences": [
+        "I find the gold.",
+        "I feel so glad.",
+        "I draw my cat.",
+        "The sky got dark.",
+        "My feet are cold.",
+        "Do not fall down.",
+        "The dog came back."
+      ]
+    },
+    {
+      "groupId": 2,
+      "startIndex": 7,
+      "count": 7,
+      "sentences": [
+        "I call my dad.",
+        "The door is red.",
+        "Put out the fire.",
+        "I beat the egg.",
+        "My face got wet.",
+        "The frog can hop.",
+        "Both of us had fun."
+      ]
+    },
+    {
+      "groupId": 3,
+      "startIndex": 14,
+      "count": 7,
+      "sentences": [
+        "I feed the cute duck.",
+        "The bird flew to me.",
+        "I put on my coat.",
+        "Come and see my farm.",
+        "My cake is so good.",
+        "My best book is fun.",
+        "I put up my hand."
+      ]
+    },
+    {
+      "groupId": 4,
+      "startIndex": 21,
+      "count": 7,
+      "sentences": [
+        "Her hair is so cool.",
+        "I fill my cup full.",
+        "The corn grew and grew.",
+        "I am up at four.",
+        "I give mum a card.",
+        "We go to the bank.",
+        "I care for my pet."
+      ]
+    },
+    {
+      "groupId": 5,
+      "startIndex": 28,
+      "count": 7,
+      "sentences": [
+        "Do not drop my cup.",
+        "I got some hot tea.",
+        "My pet does not bite.",
+        "I try hard to win.",
+        "I ate half the pie.",
+        "I see a grey owl.",
+        "My food is all gone!"
+      ]
+    },
+    {
+      "groupId": 6,
+      "startIndex": 35,
+      "count": 7,
+      "sentences": [
+        "I fell and hit the bell.",
+        "We eat five cups of corn.",
+        "I blew on the hot food.",
+        "I do not eat fast food.",
+        "A bear sat on the log.",
+        "The girl gave me a gift.",
+        "We go to camp by boat."
+      ]
+    },
+    {
+      "groupId": 7,
+      "startIndex": 42,
+      "count": 7,
+      "sentences": [
+        "The sea is deep and blue.",
+        "The fish is in the bowl.",
+        "I am in the art club.",
+        "The pig sat in the dirt.",
+        "We had fun at the fair.",
+        "I had fun at the sea.",
+        "A big band is at the fair."
+      ]
+    },
+    {
+      "groupId": 8,
+      "startIndex": 49,
+      "count": 7,
+      "sentences": [
+        "Dad blows up my ball for me.",
+        "I am going to grow up and do good.",
+        "I am able to do it.",
+        "The baby has a bath.",
+        "The city is so big.",
+        "This is easy to do.",
+        "The play area is fun."
+      ]
+    }
+  ]
+}

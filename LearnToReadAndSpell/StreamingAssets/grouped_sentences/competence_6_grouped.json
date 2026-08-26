@@ -1,0 +1,106 @@
+{
+  "competence": 6,
+  "sourceTab": "Stage 7",
+  "sourceStage": "7",
+  "totalSentences": 40,
+  "groupSize": 5.0,
+  "groupCount": 8,
+  "groups": [
+    {
+      "groupId": 1,
+      "startIndex": 0,
+      "count": 5,
+      "sentences": [
+        "I brush my teeth two times each day.",
+        "My dog runs fast to catch the stick.",
+        "The big truck drives down the main road.",
+        "We went to see a famous old steam train on Easter day! It set off with a loud call. What a voice it has, all steam and steel! We waited in a line to get a close look. The staff let us stand right at the front. We did a double take. It was huge! What a chance to see it up close!",
+        "I learn about space with my dad at night. We see the stars appear one by one. The moon sits above like a great round stone. I ask about the stars and dad tells me more. He says the sky holds more than we know. I hope to fly among the stars one day!"
+      ]
+    },
+    {
+      "groupId": 2,
+      "startIndex": 5,
+      "count": 5,
+      "sentences": [
+        "The shop is closed so we go home.",
+        "The train runs fast on the long track.",
+        "I bought a new toy at the store.",
+        "Hooray, it was games day! I stood at the start with the other kids, all set to run. We counted down as one. Three, two, one, go! I followed the track, my feet fast on the ground. I ran third last year, but this time I was faster! I kept going, right to the finish of the course. My time was my best of all times! On days like these, i feel super!",
+        "I heard a funny sound behind the door. I was not afraid so I looked inside. My cat got stuck in the basket! I set it free and it ran round the room. Then it fell asleep beside me on the chair. Mum and dad laughed when I told them that night."
+      ]
+    },
+    {
+      "groupId": 3,
+      "startIndex": 10,
+      "count": 5,
+      "sentences": [
+        "I keep all my stuff in one big box.",
+        "I take a deep breath and jump in the lake.",
+        "I feel tired after a long day.",
+        "Mum and I make a sweet treat in the evening. We add sugar, milk, and some honey. The whole house smells so good! We get Dad to taste the treat. He says, \"Thank you.\" My tummy is happy after the yummy treat. We share the rest with the family.",
+        "My friend and I work in the garden before dinner. We water every flower and plant. The white and pink flowers grow tall in the sun. A bird sings on a branch above us. Under the ground, roots grow. I cannot wait to see how the garden will grow next month!"
+      ]
+    },
+    {
+      "groupId": 4,
+      "startIndex": 15,
+      "count": 5,
+      "sentences": [
+        "Few plants grow in the hot dry desert.",
+        "My mum takes the most direct road home.",
+        "Can you do me a small favour, Dad?",
+        "I wrote a letter to a friend. She is staying far away, in the south. I told her every detail of my active week! I made sure to spell each word right. I drew a funny face at the bottom too. I put my mark on the card, and we sent it off. I would be so glad to get a letter back! I wait for it each day, and I will hold tight till it arrives.",
+        "I read a thick book about wild animals. Here are three facts I never knew! A fox can hear a mouse move deep under the snow. A bird can sleep as it flies, high up in the sky. An owl can turn its head almost all the way round! I am always learning new things about animals."
+      ]
+    },
+    {
+      "groupId": 5,
+      "startIndex": 20,
+      "count": 5,
+      "sentences": [
+        "I write a letter to my dear friend.",
+        "I stand in the centre of the circle.",
+        "The famous band plays on the big stage.",
+        "Each week we walk around our town. We stand in the centre and hear the sound of the church bells. We buy fresh bread and choose a couple of apples. A woman sells cotton hats in many colours. My father buys one for a dollar. Days like this are common for us, and we enjoy each one so much.",
+        "We take a train to visit my uncle today. I watch the land speed by from my seat. There are soft clouds above and wide fields below. My uncle waits for us with a big smile. He tells us a story about a friendly dragon. I think it is the best story in the world!"
+      ]
+    },
+    {
+      "groupId": 6,
+      "startIndex": 25,
+      "count": 5,
+      "sentences": [
+        "I pick a bright flower for my mum.",
+        "I learn a French word from my uncle.",
+        "I like the style of my new red coat.",
+        "I study my spelling words until I know them well. Mum checks each answer as I go. I almost forget one of the word, but then I get it right! It takes real energy to learn, but I never give up. I expect to do my best in the test. Bit by bit, I get better and better!",
+        "Our class went to a great house of old art. We saw work from India, from Africa and from Europe. A guide called us over to a tall stone column. She told us a story about how it got its great length. Next, she spoke about a broken figure and its fine design. I took in each part, and I loved it all! We honour the past when we learn from it."
+      ]
+    },
+    {
+      "groupId": 7,
+      "startIndex": 30,
+      "count": 5,
+      "sentences": [
+        "I think these young birds will sing until dark.",
+        "My dad reads me a story before bed.",
+        "The tiny chick became a big white bird.",
+        "My dreams get bigger every year. I love to create new things at my table. Today, I decide to make a toy boat that can really sail! I do not depend on a plan; I just try and see. Some ideas work, some do not, but that is the usual way. My room is full of bright ideas waiting to be made. I cannot wait to see what the future holds.",
+        "A fluffy young dog became our pet last year. At first, it was afraid and tried to run away. It slipped out the door, but we caught it just in time! Each day, we spent time playing with it, and soon it learned to stay close. In time, those first weeks turned into years filled with fun and love. The dog is now an actual part of our family, and we care for it with total joy!"
+      ]
+    },
+    {
+      "groupId": 8,
+      "startIndex": 35,
+      "count": 5,
+      "sentences": [
+        "I ate a couple of sweet red apples.",
+        "I visited the doctor and now I feel better.",
+        "There are many wild animals in the world.",
+        "I want to be a doctor for pets one day. To learn, I care for my toy dog as if it is sick! I hold its arm gently and cover it up well. Each day I change the cover and tell it, \"You will get well soon.\" I keep its bed clean, as good health starts with a clean home. Anyone can care for others and that is what I love to do.",
+        "Dad tells me our grandma grew up on a small French island. As a girl, she would gather food from the farms with other women while the men hunt in the forest. Boats would come each week to trade fish and their goods. The island had fair rules to govern how they shared, so all had enough. No one had to worry. Her story has a warm effect on me, and I ask which part she loved best. Either the sea or the trees, she says! One day, I will visit her island."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "competence": 5,
+  "sourceTab": "Stage 6",
+  "sourceStage": "6",
+  "totalSentences": 40,
+  "groupSize": 5.0,
+  "groupCount": 8,
+  "groups": [
+    {
+      "groupId": 1,
+      "startIndex": 0,
+      "count": 5,
+      "sentences": [
+        "The earth is big and round.",
+        "I love the smell of fresh bread.",
+        "I drink cold milk from a glass.",
+        "We drive to a large farm by the river. Clouds sail in the sky. A brown horse runs in the green field. The sheep eat grass. I sit on the low wall and never want to leave. The cool air smells so good. I could stay here for a month.",
+        "The sky is heavy and dark. I hear soft drops of rain on the glass. I stay warm and dry in the front room. I have a drink and a piece of bread. Soon the sun shines and bathes the earth in light."
+      ]
+    },
+    {
+      "groupId": 2,
+      "startIndex": 5,
+      "count": 5,
+      "sentences": [
+        "The sheep eats grass in the green field.",
+        "The cloud has the shape of a horse.",
+        "I heard a loud noise in the yard.",
+        "I clean my room early in the day. I count my toys and put them in order. We are proud that the house looks clean now. Then we have fresh greens for lunch and enjoy a good rest. It is a great day.",
+        "Our group plays a match at the park. I pass the ball and my team scores first! The other team is quick but we are ready. We shout and cheer with all our might. Our team plays with power and speed! At the very end, we score again. We win and I jump for joy!"
+      ]
+    },
+    {
+      "groupId": 3,
+      "startIndex": 10,
+      "count": 5,
+      "sentences": [
+        "I brush at night to keep my mouth clean.",
+        "The huge ship was a great sight to see.",
+        "The lady has a kind heart.",
+        "A noise came from the yard as I lay in bed! It felt a bit scary, but I went to see. It was just the wind that shook the door. My cat cried once and hid by my feet. No enemy came, and no fight occurred. We shook our heads and smiled. It was all fine in the end.",
+        "I hear a soft cry by the back door, so I hurry out. Down on the floor, I find a lost cat. It is too shy to come near, so I reach out and raise it up with care. I hold it close, and it seems so glad. Mum gives it a warm snack. Doing a kind act makes me smile."
+      ]
+    },
+    {
+      "groupId": 4,
+      "startIndex": 15,
+      "count": 5,
+      "sentences": [
+        "My other dog is small.",
+        "We play fun games at the party.",
+        "I print my name on the paper.",
+        "I turn eight and today is my party! Daddy puts up eight gold stars. We eat cake with cream, and bread with honey. We dance to the music and play fun games. Every child gets a small gift. I smile and laugh all day. What a lucky child I am!",
+        "My mum reads to me each night. Now we are on a book about a fairy and a giant. The kind fairy uses magic to help the poor giant. The crowd in the book cheers with joy. I try to guess the happy ending as it gets near. I sleep and dream of magic."
+      ]
+    },
+    {
+      "groupId": 5,
+      "startIndex": 20,
+      "count": 5,
+      "sentences": [
+        "The box is quite heavy to lift.",
+        "My daddy reads to me each day.",
+        "My toys are all over the floor.",
+        "I keep my money in my own box. It was empty when the year began! I set a firm limit and force myself to save a small extra each week. When doubt comes, I refer to my plan. I am going to buy a gift for mum.",
+        "On day seven of our trip, we join a big group on a boat. The ocean is so clear. I hold the metal bar and see a huge fish swim by our boat! I put my hands over my mouth in joy. This is the final and best class event of the year!"
+      ]
+    },
+    {
+      "groupId": 6,
+      "startIndex": 25,
+      "count": 5,
+      "sentences": [
+        "My dad told me a funny joke.",
+        "We leave for camp early in the day.",
+        "I put my books in the right order.",
+        "I paint on a big sheet of paper. I paint round shapes that are shiny and look quite funny. I print my name in the lower right corner. Then I get a smart idea! I turn the sheet into a paper model with fine points. I share it, and mum says it shows real skill. I want to paint more often!",
+        "On the pitch, Mrs Tan showed us how to play football. We had to learn to pass the ball, not just run with it. The two teams were equal, so it was a fair game. When the ball moved to Ben, he ran up fast to score, but he just missed! He needs a bit more time, but he tries so hard. \"I am going to score next time!\" Ben said, and we all cheered him on."
+      ]
+    },
+    {
+      "groupId": 7,
+      "startIndex": 30,
+      "count": 5,
+      "sentences": [
+        "We shall go to the park after lunch.",
+        "My dog does a silly dance for food.",
+        "Each of us gets an equal share of the cake.",
+        "One day, Mia and her dad went to the local shop in the north. As they entered, they saw a tall plant by the door. Apples were on sale, and the price was just one dollar for a bag! A kind lady served the crowd with a smile. The line was short, so they did not wait long. Since they had time, they crossed the road to one more place.",
+        "A tiny mouse lives in the wall by my bed. Each day, I put some bread down and say, \"Hello, mouse.\" Maybe it will come out to eat. I try to be as quiet as I can, but my heart beats loudly like a clock!"
+      ]
+    },
+    {
+      "groupId": 8,
+      "startIndex": 35,
+      "count": 5,
+      "sentences": [
+        "The race is a major event at camp.",
+        "The house is very quiet at night.",
+        "A fairy uses magic to help the lost girl.",
+        "Mr Lee was our guide on a class trip to the shore. He told us to take care, as the rocks by the sea could be wet. We looked out at the sea and saw how high the level had come. Soon, we set off on a march along the shore. We saw a big range of rocks, from tiny shiny ones to big brown ones. Mr Lee gave us a fun game. We had to find at least five rocks to make a shape! Each group had to prove that they kept to the rules. In the end, Mr Lee granted a small award to the best team. We all had a great day.",
+        "Emma put on a fancy dress for the class play. She was going to be a royal lady! She used a soft cover to keep her shiny royal hat safe till the show began. Up in front, a judge sat in the court to hear our play. When the royal lady called on us, we each took turns to reply. The play had a toy plane too, shown up front as a major part of the show. Mrs Tan said it was a big day for the class. By the end, Emma was known as the star of the play!"
+      ]
+    }
+  ]
+}
