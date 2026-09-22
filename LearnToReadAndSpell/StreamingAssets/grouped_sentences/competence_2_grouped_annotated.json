@@ -1,0 +1,1502 @@
+{
+  "competence": 2,
+  "sourceTab": "Stage 3",
+  "sourceStage": "3",
+  "totalSentences": 56,
+  "groupSize": 7.0,
+  "groupCount": 8,
+  "groups": [
+    {
+      "groupId": 1,
+      "startIndex": 0,
+      "count": 7,
+      "sentences": [
+        {
+          "text": "I find the gold.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "find",
+              "pronunciation": "find"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "gold.",
+              "pronunciation": "gold"
+            }
+          ]
+        },
+        {
+          "text": "I feel so glad.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "feel",
+              "pronunciation": "feel"
+            },
+            {
+              "word": "so",
+              "pronunciation": "so"
+            },
+            {
+              "word": "glad.",
+              "pronunciation": "glad"
+            }
+          ]
+        },
+        {
+          "text": "I draw my cat.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "draw",
+              "pronunciation": "draw"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "cat.",
+              "pronunciation": "cat"
+            }
+          ]
+        },
+        {
+          "text": "The sky got dark.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "sky",
+              "pronunciation": "sky"
+            },
+            {
+              "word": "got",
+              "pronunciation": "got"
+            },
+            {
+              "word": "dark.",
+              "pronunciation": "dark"
+            }
+          ]
+        },
+        {
+          "text": "My feet are cold.",
+          "words": [
+            {
+              "word": "My",
+              "pronunciation": "my"
+            },
+            {
+              "word": "feet",
+              "pronunciation": "feet"
+            },
+            {
+              "word": "are",
+              "pronunciation": "are"
+            },
+            {
+              "word": "cold.",
+              "pronunciation": "cold"
+            }
+          ]
+        },
+        {
+          "text": "Do not fall down.",
+          "words": [
+            {
+              "word": "Do",
+              "pronunciation": "do"
+            },
+            {
+              "word": "not",
+              "pronunciation": "not"
+            },
+            {
+              "word": "fall",
+              "pronunciation": "fall"
+            },
+            {
+              "word": "down.",
+              "pronunciation": "down"
+            }
+          ]
+        },
+        {
+          "text": "The dog came back.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "dog",
+              "pronunciation": "dog"
+            },
+            {
+              "word": "came",
+              "pronunciation": "came"
+            },
+            {
+              "word": "back.",
+              "pronunciation": "back"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupId": 2,
+      "startIndex": 7,
+      "count": 7,
+      "sentences": [
+        {
+          "text": "I call my dad.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "call",
+              "pronunciation": "call"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "dad.",
+              "pronunciation": "dad"
+            }
+          ]
+        },
+        {
+          "text": "The door is red.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "door",
+              "pronunciation": "door"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "red.",
+              "pronunciation": "red"
+            }
+          ]
+        },
+        {
+          "text": "Put out the fire.",
+          "words": [
+            {
+              "word": "Put",
+              "pronunciation": "put"
+            },
+            {
+              "word": "out",
+              "pronunciation": "out"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "fire.",
+              "pronunciation": "fire"
+            }
+          ]
+        },
+        {
+          "text": "I beat the egg.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "beat",
+              "pronunciation": "beat"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_vowel"
+            },
+            {
+              "word": "egg.",
+              "pronunciation": "egg"
+            }
+          ]
+        },
+        {
+          "text": "My face got wet.",
+          "words": [
+            {
+              "word": "My",
+              "pronunciation": "my"
+            },
+            {
+              "word": "face",
+              "pronunciation": "face"
+            },
+            {
+              "word": "got",
+              "pronunciation": "got"
+            },
+            {
+              "word": "wet.",
+              "pronunciation": "wet"
+            }
+          ]
+        },
+        {
+          "text": "The frog can hop.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "frog",
+              "pronunciation": "frog"
+            },
+            {
+              "word": "can",
+              "pronunciation": "can"
+            },
+            {
+              "word": "hop.",
+              "pronunciation": "hop"
+            }
+          ]
+        },
+        {
+          "text": "Both of us had fun.",
+          "words": [
+            {
+              "word": "Both",
+              "pronunciation": "both"
+            },
+            {
+              "word": "of",
+              "pronunciation": "of"
+            },
+            {
+              "word": "us",
+              "pronunciation": "us"
+            },
+            {
+              "word": "had",
+              "pronunciation": "had"
+            },
+            {
+              "word": "fun.",
+              "pronunciation": "fun"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "startIndex": 14,
+      "count": 7,
+      "sentences": [
+        {
+          "text": "I feed the cute duck.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "feed",
+              "pronunciation": "feed"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "cute",
+              "pronunciation": "cute"
+            },
+            {
+              "word": "duck.",
+              "pronunciation": "duck"
+            }
+          ]
+        },
+        {
+          "text": "The bird flew to me.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "bird",
+              "pronunciation": "bird"
+            },
+            {
+              "word": "flew",
+              "pronunciation": "flew"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "me.",
+              "pronunciation": "me"
+            }
+          ]
+        },
+        {
+          "text": "I put on my coat.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "put",
+              "pronunciation": "put"
+            },
+            {
+              "word": "on",
+              "pronunciation": "on"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "coat.",
+              "pronunciation": "coat"
+            }
+          ]
+        },
+        {
+          "text": "Come and see my farm.",
+          "words": [
+            {
+              "word": "Come",
+              "pronunciation": "come"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "see",
+              "pronunciation": "see"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "farm.",
+              "pronunciation": "farm"
+            }
+          ]
+        },
+        {
+          "text": "My cake is so good.",
+          "words": [
+            {
+              "word": "My",
+              "pronunciation": "my"
+            },
+            {
+              "word": "cake",
+              "pronunciation": "cake"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "so",
+              "pronunciation": "so"
+            },
+            {
+              "word": "good.",
+              "pronunciation": "good"
+            }
+          ]
+        },
+        {
+          "text": "My best book is fun.",
+          "words": [
+            {
+              "word": "My",
+              "pronunciation": "my"
+            },
+            {
+              "word": "best",
+              "pronunciation": "best"
+            },
+            {
+              "word": "book",
+              "pronunciation": "book"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "fun.",
+              "pronunciation": "fun"
+            }
+          ]
+        },
+        {
+          "text": "I put up my hand.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "put",
+              "pronunciation": "put"
+            },
+            {
+              "word": "up",
+              "pronunciation": "up"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "hand.",
+              "pronunciation": "hand"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupId": 4,
+      "startIndex": 21,
+      "count": 7,
+      "sentences": [
+        {
+          "text": "Her hair is so cool.",
+          "words": [
+            {
+              "word": "Her",
+              "pronunciation": "her"
+            },
+            {
+              "word": "hair",
+              "pronunciation": "hair"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "so",
+              "pronunciation": "so"
+            },
+            {
+              "word": "cool.",
+              "pronunciation": "cool"
+            }
+          ]
+        },
+        {
+          "text": "I fill my cup full.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "fill",
+              "pronunciation": "fill"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "cup",
+              "pronunciation": "cup"
+            },
+            {
+              "word": "full.",
+              "pronunciation": "full"
+            }
+          ]
+        },
+        {
+          "text": "The corn grew and grew.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "corn",
+              "pronunciation": "corn"
+            },
+            {
+              "word": "grew",
+              "pronunciation": "grew"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "grew.",
+              "pronunciation": "grew"
+            }
+          ]
+        },
+        {
+          "text": "I am up at four.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "am",
+              "pronunciation": "am"
+            },
+            {
+              "word": "up",
+              "pronunciation": "up"
+            },
+            {
+              "word": "at",
+              "pronunciation": "at"
+            },
+            {
+              "word": "four.",
+              "pronunciation": "four"
+            }
+          ]
+        },
+        {
+          "text": "I give mum a card.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "give",
+              "pronunciation": "give"
+            },
+            {
+              "word": "mum",
+              "pronunciation": "mum"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "card.",
+              "pronunciation": "card"
+            }
+          ]
+        },
+        {
+          "text": "We go to the bank.",
+          "words": [
+            {
+              "word": "We",
+              "pronunciation": "we"
+            },
+            {
+              "word": "go",
+              "pronunciation": "go"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "bank.",
+              "pronunciation": "bank"
+            }
+          ]
+        },
+        {
+          "text": "I care for my pet.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "care",
+              "pronunciation": "care"
+            },
+            {
+              "word": "for",
+              "pronunciation": "for"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "pet.",
+              "pronunciation": "pet"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupId": 5,
+      "startIndex": 28,
+      "count": 7,
+      "sentences": [
+        {
+          "text": "Do not drop my cup.",
+          "words": [
+            {
+              "word": "Do",
+              "pronunciation": "do"
+            },
+            {
+              "word": "not",
+              "pronunciation": "not"
+            },
+            {
+              "word": "drop",
+              "pronunciation": "drop"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "cup.",
+              "pronunciation": "cup"
+            }
+          ]
+        },
+        {
+          "text": "I got some hot tea.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "got",
+              "pronunciation": "got"
+            },
+            {
+              "word": "some",
+              "pronunciation": "some"
+            },
+            {
+              "word": "hot",
+              "pronunciation": "hot"
+            },
+            {
+              "word": "tea.",
+              "pronunciation": "tea"
+            }
+          ]
+        },
+        {
+          "text": "My pet does not bite.",
+          "words": [
+            {
+              "word": "My",
+              "pronunciation": "my"
+            },
+            {
+              "word": "pet",
+              "pronunciation": "pet"
+            },
+            {
+              "word": "does",
+              "pronunciation": "does"
+            },
+            {
+              "word": "not",
+              "pronunciation": "not"
+            },
+            {
+              "word": "bite.",
+              "pronunciation": "bite"
+            }
+          ]
+        },
+        {
+          "text": "I try hard to win.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "try",
+              "pronunciation": "try"
+            },
+            {
+              "word": "hard",
+              "pronunciation": "hard"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "win.",
+              "pronunciation": "win"
+            }
+          ]
+        },
+        {
+          "text": "I ate half the pie.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "ate",
+              "pronunciation": "ate"
+            },
+            {
+              "word": "half",
+              "pronunciation": "half"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "pie.",
+              "pronunciation": "pie"
+            }
+          ]
+        },
+        {
+          "text": "I see a grey owl.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "see",
+              "pronunciation": "see"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "grey",
+              "pronunciation": "grey"
+            },
+            {
+              "word": "owl.",
+              "pronunciation": "owl"
+            }
+          ]
+        },
+        {
+          "text": "My food is all gone!",
+          "words": [
+            {
+              "word": "My",
+              "pronunciation": "my"
+            },
+            {
+              "word": "food",
+              "pronunciation": "food"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "all",
+              "pronunciation": "all"
+            },
+            {
+              "word": "gone!",
+              "pronunciation": "gone"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupId": 6,
+      "startIndex": 35,
+      "count": 7,
+      "sentences": [
+        {
+          "text": "I fell and hit the bell.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "fell",
+              "pronunciation": "fell"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "hit",
+              "pronunciation": "hit"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "bell.",
+              "pronunciation": "bell"
+            }
+          ]
+        },
+        {
+          "text": "We eat five cups of corn.",
+          "words": [
+            {
+              "word": "We",
+              "pronunciation": "we"
+            },
+            {
+              "word": "eat",
+              "pronunciation": "eat"
+            },
+            {
+              "word": "five",
+              "pronunciation": "five"
+            },
+            {
+              "word": "cups",
+              "pronunciation": "cups"
+            },
+            {
+              "word": "of",
+              "pronunciation": "of"
+            },
+            {
+              "word": "corn.",
+              "pronunciation": "corn"
+            }
+          ]
+        },
+        {
+          "text": "I blew on the hot food.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "blew",
+              "pronunciation": "blew"
+            },
+            {
+              "word": "on",
+              "pronunciation": "on"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "hot",
+              "pronunciation": "hot"
+            },
+            {
+              "word": "food.",
+              "pronunciation": "food"
+            }
+          ]
+        },
+        {
+          "text": "I do not eat fast food.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "do",
+              "pronunciation": "do"
+            },
+            {
+              "word": "not",
+              "pronunciation": "not"
+            },
+            {
+              "word": "eat",
+              "pronunciation": "eat"
+            },
+            {
+              "word": "fast",
+              "pronunciation": "fast"
+            },
+            {
+              "word": "food.",
+              "pronunciation": "food"
+            }
+          ]
+        },
+        {
+          "text": "A bear sat on the log.",
+          "words": [
+            {
+              "word": "A",
+              "pronunciation": "a"
+            },
+            {
+              "word": "bear",
+              "pronunciation": "bear"
+            },
+            {
+              "word": "sat",
+              "pronunciation": "sat"
+            },
+            {
+              "word": "on",
+              "pronunciation": "on"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "log.",
+              "pronunciation": "log"
+            }
+          ]
+        },
+        {
+          "text": "The girl gave me a gift.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "girl",
+              "pronunciation": "girl"
+            },
+            {
+              "word": "gave",
+              "pronunciation": "gave"
+            },
+            {
+              "word": "me",
+              "pronunciation": "me"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "gift.",
+              "pronunciation": "gift"
+            }
+          ]
+        },
+        {
+          "text": "We go to camp by boat.",
+          "words": [
+            {
+              "word": "We",
+              "pronunciation": "we"
+            },
+            {
+              "word": "go",
+              "pronunciation": "go"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "camp",
+              "pronunciation": "camp"
+            },
+            {
+              "word": "by",
+              "pronunciation": "by"
+            },
+            {
+              "word": "boat.",
+              "pronunciation": "boat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupId": 7,
+      "startIndex": 42,
+      "count": 7,
+      "sentences": [
+        {
+          "text": "The sea is deep and blue.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "sea",
+              "pronunciation": "sea"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "deep",
+              "pronunciation": "deep"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "blue.",
+              "pronunciation": "blue"
+            }
+          ]
+        },
+        {
+          "text": "The fish is in the bowl.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "fish",
+              "pronunciation": "fish"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "bowl.",
+              "pronunciation": "bowl"
+            }
+          ]
+        },
+        {
+          "text": "I am in the art club.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "am",
+              "pronunciation": "am"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_vowel"
+            },
+            {
+              "word": "art",
+              "pronunciation": "art"
+            },
+            {
+              "word": "club.",
+              "pronunciation": "club"
+            }
+          ]
+        },
+        {
+          "text": "The pig sat in the dirt.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "pig",
+              "pronunciation": "pig"
+            },
+            {
+              "word": "sat",
+              "pronunciation": "sat"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "dirt.",
+              "pronunciation": "dirt"
+            }
+          ]
+        },
+        {
+          "text": "We had fun at the fair.",
+          "words": [
+            {
+              "word": "We",
+              "pronunciation": "we"
+            },
+            {
+              "word": "had",
+              "pronunciation": "had"
+            },
+            {
+              "word": "fun",
+              "pronunciation": "fun"
+            },
+            {
+              "word": "at",
+              "pronunciation": "at"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "fair.",
+              "pronunciation": "fair"
+            }
+          ]
+        },
+        {
+          "text": "I had fun at the sea.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "had",
+              "pronunciation": "had"
+            },
+            {
+              "word": "fun",
+              "pronunciation": "fun"
+            },
+            {
+              "word": "at",
+              "pronunciation": "at"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "sea.",
+              "pronunciation": "sea"
+            }
+          ]
+        },
+        {
+          "text": "A big band is at the fair.",
+          "words": [
+            {
+              "word": "A",
+              "pronunciation": "a"
+            },
+            {
+              "word": "big",
+              "pronunciation": "big"
+            },
+            {
+              "word": "band",
+              "pronunciation": "band"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "at",
+              "pronunciation": "at"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "fair.",
+              "pronunciation": "fair"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupId": 8,
+      "startIndex": 49,
+      "count": 7,
+      "sentences": [
+        {
+          "text": "Dad blows up my ball for me.",
+          "words": [
+            {
+              "word": "Dad",
+              "pronunciation": "dad"
+            },
+            {
+              "word": "blows",
+              "pronunciation": "blows"
+            },
+            {
+              "word": "up",
+              "pronunciation": "up"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "ball",
+              "pronunciation": "ball"
+            },
+            {
+              "word": "for",
+              "pronunciation": "for"
+            },
+            {
+              "word": "me.",
+              "pronunciation": "me"
+            }
+          ]
+        },
+        {
+          "text": "I am going to grow up and do good.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "am",
+              "pronunciation": "am"
+            },
+            {
+              "word": "going",
+              "pronunciation": "going"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "grow",
+              "pronunciation": "grow"
+            },
+            {
+              "word": "up",
+              "pronunciation": "up"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "do",
+              "pronunciation": "do"
+            },
+            {
+              "word": "good.",
+              "pronunciation": "good"
+            }
+          ]
+        },
+        {
+          "text": "I am able to do it.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "am",
+              "pronunciation": "am"
+            },
+            {
+              "word": "able",
+              "pronunciation": "able"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "do",
+              "pronunciation": "do"
+            },
+            {
+              "word": "it.",
+              "pronunciation": "it"
+            }
+          ]
+        },
+        {
+          "text": "The baby has a bath.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "baby",
+              "pronunciation": "baby"
+            },
+            {
+              "word": "has",
+              "pronunciation": "has"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "bath.",
+              "pronunciation": "bath"
+            }
+          ]
+        },
+        {
+          "text": "The city is so big.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "city",
+              "pronunciation": "city"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "so",
+              "pronunciation": "so"
+            },
+            {
+              "word": "big.",
+              "pronunciation": "big"
+            }
+          ]
+        },
+        {
+          "text": "This is easy to do.",
+          "words": [
+            {
+              "word": "This",
+              "pronunciation": "this"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "easy",
+              "pronunciation": "easy"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "do.",
+              "pronunciation": "do"
+            }
+          ]
+        },
+        {
+          "text": "The play area is fun.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "play",
+              "pronunciation": "play"
+            },
+            {
+              "word": "area",
+              "pronunciation": "area"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "fun.",
+              "pronunciation": "fun"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4426 @@
+{
+  "competence": 5,
+  "sourceTab": "Stage 6",
+  "sourceStage": "6",
+  "totalSentences": 40,
+  "groupSize": 5.0,
+  "groupCount": 8,
+  "groups": [
+    {
+      "groupId": 1,
+      "startIndex": 0,
+      "count": 5,
+      "sentences": [
+        {
+          "text": "The earth is big and round.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_vowel"
+            },
+            {
+              "word": "earth",
+              "pronunciation": "earth"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "big",
+              "pronunciation": "big"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "round.",
+              "pronunciation": "round"
+            }
+          ]
+        },
+        {
+          "text": "I love the smell of fresh bread.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "love",
+              "pronunciation": "love"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "smell",
+              "pronunciation": "smell"
+            },
+            {
+              "word": "of",
+              "pronunciation": "of"
+            },
+            {
+              "word": "fresh",
+              "pronunciation": "fresh"
+            },
+            {
+              "word": "bread.",
+              "pronunciation": "bread"
+            }
+          ]
+        },
+        {
+          "text": "I drink cold milk from a glass.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "drink",
+              "pronunciation": "drink"
+            },
+            {
+              "word": "cold",
+              "pronunciation": "cold"
+            },
+            {
+              "word": "milk",
+              "pronunciation": "milk"
+            },
+            {
+              "word": "from",
+              "pronunciation": "from"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "glass.",
+              "pronunciation": "glass"
+            }
+          ]
+        },
+        {
+          "text": "We drive to a large farm by the river. Clouds sail in the sky. A brown horse runs in the green field. The sheep eat grass. I sit on the low wall and never want to leave. The cool air smells so good. I could stay here for a month.",
+          "words": [
+            {
+              "word": "We",
+              "pronunciation": "we"
+            },
+            {
+              "word": "drive",
+              "pronunciation": "drive"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "large",
+              "pronunciation": "large"
+            },
+            {
+              "word": "farm",
+              "pronunciation": "farm"
+            },
+            {
+              "word": "by",
+              "pronunciation": "by"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "river.",
+              "pronunciation": "river"
+            },
+            {
+              "word": "Clouds",
+              "pronunciation": "clouds"
+            },
+            {
+              "word": "sail",
+              "pronunciation": "sail"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "sky.",
+              "pronunciation": "sky"
+            },
+            {
+              "word": "A",
+              "pronunciation": "a"
+            },
+            {
+              "word": "brown",
+              "pronunciation": "brown"
+            },
+            {
+              "word": "horse",
+              "pronunciation": "horse"
+            },
+            {
+              "word": "runs",
+              "pronunciation": "runs"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "green",
+              "pronunciation": "green"
+            },
+            {
+              "word": "field.",
+              "pronunciation": "field"
+            },
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "sheep",
+              "pronunciation": "sheep"
+            },
+            {
+              "word": "eat",
+              "pronunciation": "eat"
+            },
+            {
+              "word": "grass.",
+              "pronunciation": "grass"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "sit",
+              "pronunciation": "sit"
+            },
+            {
+              "word": "on",
+              "pronunciation": "on"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "low",
+              "pronunciation": "low"
+            },
+            {
+              "word": "wall",
+              "pronunciation": "wall"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "never",
+              "pronunciation": "never"
+            },
+            {
+              "word": "want",
+              "pronunciation": "want"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "leave.",
+              "pronunciation": "leave"
+            },
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "cool",
+              "pronunciation": "cool"
+            },
+            {
+              "word": "air",
+              "pronunciation": "air"
+            },
+            {
+              "word": "smells",
+              "pronunciation": "smells"
+            },
+            {
+              "word": "so",
+              "pronunciation": "so"
+            },
+            {
+              "word": "good.",
+              "pronunciation": "good"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "could",
+              "pronunciation": "could"
+            },
+            {
+              "word": "stay",
+              "pronunciation": "stay"
+            },
+            {
+              "word": "here",
+              "pronunciation": "here"
+            },
+            {
+              "word": "for",
+              "pronunciation": "for"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "month.",
+              "pronunciation": "month"
+            }
+          ]
+        },
+        {
+          "text": "The sky is heavy and dark. I hear rain on the glass. I stay warm in the front room. Mum offers me a drink and a piece of bread. Soon, the sun begins to shine and fills the earth with light.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "sky",
+              "pronunciation": "sky"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "heavy",
+              "pronunciation": "heavy"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "dark.",
+              "pronunciation": "dark"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "hear",
+              "pronunciation": "hear"
+            },
+            {
+              "word": "rain",
+              "pronunciation": "rain"
+            },
+            {
+              "word": "on",
+              "pronunciation": "on"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "glass.",
+              "pronunciation": "glass"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "stay",
+              "pronunciation": "stay"
+            },
+            {
+              "word": "warm",
+              "pronunciation": "warm"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "front",
+              "pronunciation": "front"
+            },
+            {
+              "word": "room.",
+              "pronunciation": "room"
+            },
+            {
+              "word": "Mum",
+              "pronunciation": "mum"
+            },
+            {
+              "word": "offers",
+              "pronunciation": "offers"
+            },
+            {
+              "word": "me",
+              "pronunciation": "me"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "drink",
+              "pronunciation": "drink"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "piece",
+              "pronunciation": "piece"
+            },
+            {
+              "word": "of",
+              "pronunciation": "of"
+            },
+            {
+              "word": "bread.",
+              "pronunciation": "bread"
+            },
+            {
+              "word": "Soon,",
+              "pronunciation": "soon"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "sun",
+              "pronunciation": "sun"
+            },
+            {
+              "word": "begins",
+              "pronunciation": "begins"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "shine",
+              "pronunciation": "shine"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "fills",
+              "pronunciation": "fills"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_vowel"
+            },
+            {
+              "word": "earth",
+              "pronunciation": "earth"
+            },
+            {
+              "word": "with",
+              "pronunciation": "with"
+            },
+            {
+              "word": "light.",
+              "pronunciation": "light"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupId": 2,
+      "startIndex": 5,
+      "count": 5,
+      "sentences": [
+        {
+          "text": "The sheep eats grass in the green field.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "sheep",
+              "pronunciation": "sheep"
+            },
+            {
+              "word": "eats",
+              "pronunciation": "eats"
+            },
+            {
+              "word": "grass",
+              "pronunciation": "grass"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "green",
+              "pronunciation": "green"
+            },
+            {
+              "word": "field.",
+              "pronunciation": "field"
+            }
+          ]
+        },
+        {
+          "text": "The cloud has the shape of a horse.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "cloud",
+              "pronunciation": "cloud"
+            },
+            {
+              "word": "has",
+              "pronunciation": "has"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "shape",
+              "pronunciation": "shape"
+            },
+            {
+              "word": "of",
+              "pronunciation": "of"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "horse.",
+              "pronunciation": "horse"
+            }
+          ]
+        },
+        {
+          "text": "I heard a loud noise in the yard.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "heard",
+              "pronunciation": "heard"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "loud",
+              "pronunciation": "loud"
+            },
+            {
+              "word": "noise",
+              "pronunciation": "noise"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "yard.",
+              "pronunciation": "yard"
+            }
+          ]
+        },
+        {
+          "text": "I clean my room early in the day. I count my toys and put them in order. We are proud that the house looks clean now. Then we have fresh greens for lunch and enjoy a good rest. It is a great day.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "clean",
+              "pronunciation": "clean"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "room",
+              "pronunciation": "room"
+            },
+            {
+              "word": "early",
+              "pronunciation": "early"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "day.",
+              "pronunciation": "day"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "count",
+              "pronunciation": "count"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "toys",
+              "pronunciation": "toys"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "put",
+              "pronunciation": "put"
+            },
+            {
+              "word": "them",
+              "pronunciation": "them"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "order.",
+              "pronunciation": "order"
+            },
+            {
+              "word": "We",
+              "pronunciation": "we"
+            },
+            {
+              "word": "are",
+              "pronunciation": "are"
+            },
+            {
+              "word": "proud",
+              "pronunciation": "proud"
+            },
+            {
+              "word": "that",
+              "pronunciation": "that"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "house",
+              "pronunciation": "house"
+            },
+            {
+              "word": "looks",
+              "pronunciation": "looks"
+            },
+            {
+              "word": "clean",
+              "pronunciation": "clean"
+            },
+            {
+              "word": "now.",
+              "pronunciation": "now"
+            },
+            {
+              "word": "Then",
+              "pronunciation": "then"
+            },
+            {
+              "word": "we",
+              "pronunciation": "we"
+            },
+            {
+              "word": "have",
+              "pronunciation": "have"
+            },
+            {
+              "word": "fresh",
+              "pronunciation": "fresh"
+            },
+            {
+              "word": "greens",
+              "pronunciation": "greens"
+            },
+            {
+              "word": "for",
+              "pronunciation": "for"
+            },
+            {
+              "word": "lunch",
+              "pronunciation": "lunch"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "enjoy",
+              "pronunciation": "enjoy"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "good",
+              "pronunciation": "good"
+            },
+            {
+              "word": "rest.",
+              "pronunciation": "rest"
+            },
+            {
+              "word": "It",
+              "pronunciation": "it"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "great",
+              "pronunciation": "great"
+            },
+            {
+              "word": "day.",
+              "pronunciation": "day"
+            }
+          ]
+        },
+        {
+          "text": "Our group plays a match at the park. I pass the ball, and our team scores first! The other team is quick, but we are ready. We shout and play with all our power. At the end, we score again and win!",
+          "words": [
+            {
+              "word": "Our",
+              "pronunciation": "our"
+            },
+            {
+              "word": "group",
+              "pronunciation": "group"
+            },
+            {
+              "word": "plays",
+              "pronunciation": "plays"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "match",
+              "pronunciation": "match"
+            },
+            {
+              "word": "at",
+              "pronunciation": "at"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "park.",
+              "pronunciation": "park"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "pass",
+              "pronunciation": "pass"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "ball,",
+              "pronunciation": "ball"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "our",
+              "pronunciation": "our"
+            },
+            {
+              "word": "team",
+              "pronunciation": "team"
+            },
+            {
+              "word": "scores",
+              "pronunciation": "scores"
+            },
+            {
+              "word": "first!",
+              "pronunciation": "first"
+            },
+            {
+              "word": "The",
+              "pronunciation": "the_before_vowel"
+            },
+            {
+              "word": "other",
+              "pronunciation": "other"
+            },
+            {
+              "word": "team",
+              "pronunciation": "team"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "quick,",
+              "pronunciation": "quick"
+            },
+            {
+              "word": "but",
+              "pronunciation": "but"
+            },
+            {
+              "word": "we",
+              "pronunciation": "we"
+            },
+            {
+              "word": "are",
+              "pronunciation": "are"
+            },
+            {
+              "word": "ready.",
+              "pronunciation": "ready"
+            },
+            {
+              "word": "We",
+              "pronunciation": "we"
+            },
+            {
+              "word": "shout",
+              "pronunciation": "shout"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "play",
+              "pronunciation": "play"
+            },
+            {
+              "word": "with",
+              "pronunciation": "with"
+            },
+            {
+              "word": "all",
+              "pronunciation": "all"
+            },
+            {
+              "word": "our",
+              "pronunciation": "our"
+            },
+            {
+              "word": "power.",
+              "pronunciation": "power"
+            },
+            {
+              "word": "At",
+              "pronunciation": "at"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_vowel"
+            },
+            {
+              "word": "end,",
+              "pronunciation": "end"
+            },
+            {
+              "word": "we",
+              "pronunciation": "we"
+            },
+            {
+              "word": "score",
+              "pronunciation": "score"
+            },
+            {
+              "word": "again",
+              "pronunciation": "again"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "win!",
+              "pronunciation": "win"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupId": 3,
+      "startIndex": 10,
+      "count": 5,
+      "sentences": [
+        {
+          "text": "I brush at night to keep my mouth clean.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "brush",
+              "pronunciation": "brush"
+            },
+            {
+              "word": "at",
+              "pronunciation": "at"
+            },
+            {
+              "word": "night",
+              "pronunciation": "night"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "keep",
+              "pronunciation": "keep"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "mouth",
+              "pronunciation": "mouth"
+            },
+            {
+              "word": "clean.",
+              "pronunciation": "clean"
+            }
+          ]
+        },
+        {
+          "text": "The huge ship was a great sight to see.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "huge",
+              "pronunciation": "huge"
+            },
+            {
+              "word": "ship",
+              "pronunciation": "ship"
+            },
+            {
+              "word": "was",
+              "pronunciation": "was"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "great",
+              "pronunciation": "great"
+            },
+            {
+              "word": "sight",
+              "pronunciation": "sight"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "see.",
+              "pronunciation": "see"
+            }
+          ]
+        },
+        {
+          "text": "The lady has a kind heart.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "lady",
+              "pronunciation": "lady"
+            },
+            {
+              "word": "has",
+              "pronunciation": "has"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "kind",
+              "pronunciation": "kind"
+            },
+            {
+              "word": "heart.",
+              "pronunciation": "heart"
+            }
+          ]
+        },
+        {
+          "text": "I heard a noise in the yard. It was scary, so I went to look. The wind shook the gate, and my little brother cried out. There was no enemy and no fight. Nothing bad occurred, and we were safe.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "heard",
+              "pronunciation": "heard"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "noise",
+              "pronunciation": "noise"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "yard.",
+              "pronunciation": "yard"
+            },
+            {
+              "word": "It",
+              "pronunciation": "it"
+            },
+            {
+              "word": "was",
+              "pronunciation": "was"
+            },
+            {
+              "word": "scary,",
+              "pronunciation": "scary"
+            },
+            {
+              "word": "so",
+              "pronunciation": "so"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "went",
+              "pronunciation": "went"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "look.",
+              "pronunciation": "look"
+            },
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "wind",
+              "pronunciation": "wind"
+            },
+            {
+              "word": "shook",
+              "pronunciation": "shook"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "gate,",
+              "pronunciation": "gate"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "little",
+              "pronunciation": "little"
+            },
+            {
+              "word": "brother",
+              "pronunciation": "brother"
+            },
+            {
+              "word": "cried",
+              "pronunciation": "cried"
+            },
+            {
+              "word": "out.",
+              "pronunciation": "out"
+            },
+            {
+              "word": "There",
+              "pronunciation": "there"
+            },
+            {
+              "word": "was",
+              "pronunciation": "was"
+            },
+            {
+              "word": "no",
+              "pronunciation": "no"
+            },
+            {
+              "word": "enemy",
+              "pronunciation": "enemy"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "no",
+              "pronunciation": "no"
+            },
+            {
+              "word": "fight.",
+              "pronunciation": "fight"
+            },
+            {
+              "word": "Nothing",
+              "pronunciation": "nothing"
+            },
+            {
+              "word": "bad",
+              "pronunciation": "bad"
+            },
+            {
+              "word": "occurred,",
+              "pronunciation": "occurred"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "we",
+              "pronunciation": "we"
+            },
+            {
+              "word": "were",
+              "pronunciation": "were"
+            },
+            {
+              "word": "safe.",
+              "pronunciation": "safe"
+            }
+          ]
+        },
+        {
+          "text": "I heard a soft cry by the back door, so I hurried out. On the floor, I found a lost cat. It was shy, so I reached out and raised it with care. I held it close, and it seemed glad. Mum gave it a warm snack. Doing a kind act made me smile.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "heard",
+              "pronunciation": "heard"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "soft",
+              "pronunciation": "soft"
+            },
+            {
+              "word": "cry",
+              "pronunciation": "cry"
+            },
+            {
+              "word": "by",
+              "pronunciation": "by"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "back",
+              "pronunciation": "back"
+            },
+            {
+              "word": "door,",
+              "pronunciation": "door"
+            },
+            {
+              "word": "so",
+              "pronunciation": "so"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "hurried",
+              "pronunciation": "hurried"
+            },
+            {
+              "word": "out.",
+              "pronunciation": "out"
+            },
+            {
+              "word": "On",
+              "pronunciation": "on"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "floor,",
+              "pronunciation": "floor"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "found",
+              "pronunciation": "found"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "lost",
+              "pronunciation": "lost"
+            },
+            {
+              "word": "cat.",
+              "pronunciation": "cat"
+            },
+            {
+              "word": "It",
+              "pronunciation": "it"
+            },
+            {
+              "word": "was",
+              "pronunciation": "was"
+            },
+            {
+              "word": "shy,",
+              "pronunciation": "shy"
+            },
+            {
+              "word": "so",
+              "pronunciation": "so"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "reached",
+              "pronunciation": "reached"
+            },
+            {
+              "word": "out",
+              "pronunciation": "out"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "raised",
+              "pronunciation": "raised"
+            },
+            {
+              "word": "it",
+              "pronunciation": "it"
+            },
+            {
+              "word": "with",
+              "pronunciation": "with"
+            },
+            {
+              "word": "care.",
+              "pronunciation": "care"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "held",
+              "pronunciation": "held"
+            },
+            {
+              "word": "it",
+              "pronunciation": "it"
+            },
+            {
+              "word": "close,",
+              "pronunciation": "close"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "it",
+              "pronunciation": "it"
+            },
+            {
+              "word": "seemed",
+              "pronunciation": "seemed"
+            },
+            {
+              "word": "glad.",
+              "pronunciation": "glad"
+            },
+            {
+              "word": "Mum",
+              "pronunciation": "mum"
+            },
+            {
+              "word": "gave",
+              "pronunciation": "gave"
+            },
+            {
+              "word": "it",
+              "pronunciation": "it"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "warm",
+              "pronunciation": "warm"
+            },
+            {
+              "word": "snack.",
+              "pronunciation": "snack"
+            },
+            {
+              "word": "Doing",
+              "pronunciation": "doing"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "kind",
+              "pronunciation": "kind"
+            },
+            {
+              "word": "act",
+              "pronunciation": "act"
+            },
+            {
+              "word": "made",
+              "pronunciation": "made"
+            },
+            {
+              "word": "me",
+              "pronunciation": "me"
+            },
+            {
+              "word": "smile.",
+              "pronunciation": "smile"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupId": 4,
+      "startIndex": 15,
+      "count": 5,
+      "sentences": [
+        {
+          "text": "My other dog is small.",
+          "words": [
+            {
+              "word": "My",
+              "pronunciation": "my"
+            },
+            {
+              "word": "other",
+              "pronunciation": "other"
+            },
+            {
+              "word": "dog",
+              "pronunciation": "dog"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "small.",
+              "pronunciation": "small"
+            }
+          ]
+        },
+        {
+          "text": "We play fun games at the party.",
+          "words": [
+            {
+              "word": "We",
+              "pronunciation": "we"
+            },
+            {
+              "word": "play",
+              "pronunciation": "play"
+            },
+            {
+              "word": "fun",
+              "pronunciation": "fun"
+            },
+            {
+              "word": "games",
+              "pronunciation": "games"
+            },
+            {
+              "word": "at",
+              "pronunciation": "at"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "party.",
+              "pronunciation": "party"
+            }
+          ]
+        },
+        {
+          "text": "I print my name on the paper.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "print",
+              "pronunciation": "print"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "name",
+              "pronunciation": "name"
+            },
+            {
+              "word": "on",
+              "pronunciation": "on"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "paper.",
+              "pronunciation": "paper"
+            }
+          ]
+        },
+        {
+          "text": "I turn eight today, and it is my party! Daddy puts up eight gold stars. We eat cake with cream and bread with honey. We dance to music and play fun games. Every child gets a small gift. I smile and laugh all day. I am so lucky!",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "turn",
+              "pronunciation": "turn"
+            },
+            {
+              "word": "eight",
+              "pronunciation": "eight"
+            },
+            {
+              "word": "today,",
+              "pronunciation": "today"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "it",
+              "pronunciation": "it"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "party!",
+              "pronunciation": "party"
+            },
+            {
+              "word": "Daddy",
+              "pronunciation": "daddy"
+            },
+            {
+              "word": "puts",
+              "pronunciation": "puts"
+            },
+            {
+              "word": "up",
+              "pronunciation": "up"
+            },
+            {
+              "word": "eight",
+              "pronunciation": "eight"
+            },
+            {
+              "word": "gold",
+              "pronunciation": "gold"
+            },
+            {
+              "word": "stars.",
+              "pronunciation": "stars"
+            },
+            {
+              "word": "We",
+              "pronunciation": "we"
+            },
+            {
+              "word": "eat",
+              "pronunciation": "eat"
+            },
+            {
+              "word": "cake",
+              "pronunciation": "cake"
+            },
+            {
+              "word": "with",
+              "pronunciation": "with"
+            },
+            {
+              "word": "cream",
+              "pronunciation": "cream"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "bread",
+              "pronunciation": "bread"
+            },
+            {
+              "word": "with",
+              "pronunciation": "with"
+            },
+            {
+              "word": "honey.",
+              "pronunciation": "honey"
+            },
+            {
+              "word": "We",
+              "pronunciation": "we"
+            },
+            {
+              "word": "dance",
+              "pronunciation": "dance"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "music",
+              "pronunciation": "music"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "play",
+              "pronunciation": "play"
+            },
+            {
+              "word": "fun",
+              "pronunciation": "fun"
+            },
+            {
+              "word": "games.",
+              "pronunciation": "games"
+            },
+            {
+              "word": "Every",
+              "pronunciation": "every"
+            },
+            {
+              "word": "child",
+              "pronunciation": "child"
+            },
+            {
+              "word": "gets",
+              "pronunciation": "gets"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "small",
+              "pronunciation": "small"
+            },
+            {
+              "word": "gift.",
+              "pronunciation": "gift"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "smile",
+              "pronunciation": "smile"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "laugh",
+              "pronunciation": "laugh"
+            },
+            {
+              "word": "all",
+              "pronunciation": "all"
+            },
+            {
+              "word": "day.",
+              "pronunciation": "day"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "am",
+              "pronunciation": "am"
+            },
+            {
+              "word": "so",
+              "pronunciation": "so"
+            },
+            {
+              "word": "lucky!",
+              "pronunciation": "lucky"
+            }
+          ]
+        },
+        {
+          "text": "Mummy reads to me each night. Now we are reading a book about a fairy and a giant. The kind fairy uses magic to help the giant. A crowd cheers with joy. I try to guess the happy ending. Then I sleep and dream about magic.",
+          "words": [
+            {
+              "word": "Mummy",
+              "pronunciation": "mummy"
+            },
+            {
+              "word": "reads",
+              "pronunciation": "reads"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "me",
+              "pronunciation": "me"
+            },
+            {
+              "word": "each",
+              "pronunciation": "each"
+            },
+            {
+              "word": "night.",
+              "pronunciation": "night"
+            },
+            {
+              "word": "Now",
+              "pronunciation": "now"
+            },
+            {
+              "word": "we",
+              "pronunciation": "we"
+            },
+            {
+              "word": "are",
+              "pronunciation": "are"
+            },
+            {
+              "word": "reading",
+              "pronunciation": "reading"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "book",
+              "pronunciation": "book"
+            },
+            {
+              "word": "about",
+              "pronunciation": "about"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "fairy",
+              "pronunciation": "fairy"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "giant.",
+              "pronunciation": "giant"
+            },
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "kind",
+              "pronunciation": "kind"
+            },
+            {
+              "word": "fairy",
+              "pronunciation": "fairy"
+            },
+            {
+              "word": "uses",
+              "pronunciation": "uses"
+            },
+            {
+              "word": "magic",
+              "pronunciation": "magic"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "help",
+              "pronunciation": "help"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "giant.",
+              "pronunciation": "giant"
+            },
+            {
+              "word": "A",
+              "pronunciation": "a"
+            },
+            {
+              "word": "crowd",
+              "pronunciation": "crowd"
+            },
+            {
+              "word": "cheers",
+              "pronunciation": "cheers"
+            },
+            {
+              "word": "with",
+              "pronunciation": "with"
+            },
+            {
+              "word": "joy.",
+              "pronunciation": "joy"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "try",
+              "pronunciation": "try"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "guess",
+              "pronunciation": "guess"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "happy",
+              "pronunciation": "happy"
+            },
+            {
+              "word": "ending.",
+              "pronunciation": "ending"
+            },
+            {
+              "word": "Then",
+              "pronunciation": "then"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "sleep",
+              "pronunciation": "sleep"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "dream",
+              "pronunciation": "dream"
+            },
+            {
+              "word": "about",
+              "pronunciation": "about"
+            },
+            {
+              "word": "magic.",
+              "pronunciation": "magic"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupId": 5,
+      "startIndex": 20,
+      "count": 5,
+      "sentences": [
+        {
+          "text": "The box is quite heavy to lift.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "box",
+              "pronunciation": "box"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "quite",
+              "pronunciation": "quite"
+            },
+            {
+              "word": "heavy",
+              "pronunciation": "heavy"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "lift.",
+              "pronunciation": "lift"
+            }
+          ]
+        },
+        {
+          "text": "My daddy reads to me each day.",
+          "words": [
+            {
+              "word": "My",
+              "pronunciation": "my"
+            },
+            {
+              "word": "daddy",
+              "pronunciation": "daddy"
+            },
+            {
+              "word": "reads",
+              "pronunciation": "reads"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "me",
+              "pronunciation": "me"
+            },
+            {
+              "word": "each",
+              "pronunciation": "each"
+            },
+            {
+              "word": "day.",
+              "pronunciation": "day"
+            }
+          ]
+        },
+        {
+          "text": "My toys are all over the floor.",
+          "words": [
+            {
+              "word": "My",
+              "pronunciation": "my"
+            },
+            {
+              "word": "toys",
+              "pronunciation": "toys"
+            },
+            {
+              "word": "are",
+              "pronunciation": "are"
+            },
+            {
+              "word": "all",
+              "pronunciation": "all"
+            },
+            {
+              "word": "over",
+              "pronunciation": "over"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "floor.",
+              "pronunciation": "floor"
+            }
+          ]
+        },
+        {
+          "text": "I am going to the shop with Mum. I have some money and a limit on what I can spend. My bag is empty at first. We use a scale to weigh some fruit. I want an extra treat, but I force myself to stop. If I have any doubt, I refer to my list.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "am",
+              "pronunciation": "am"
+            },
+            {
+              "word": "going",
+              "pronunciation": "going"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "shop",
+              "pronunciation": "shop"
+            },
+            {
+              "word": "with",
+              "pronunciation": "with"
+            },
+            {
+              "word": "Mum.",
+              "pronunciation": "mum"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "have",
+              "pronunciation": "have"
+            },
+            {
+              "word": "some",
+              "pronunciation": "some"
+            },
+            {
+              "word": "money",
+              "pronunciation": "money"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "limit",
+              "pronunciation": "limit"
+            },
+            {
+              "word": "on",
+              "pronunciation": "on"
+            },
+            {
+              "word": "what",
+              "pronunciation": "what"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "can",
+              "pronunciation": "can"
+            },
+            {
+              "word": "spend.",
+              "pronunciation": "spend"
+            },
+            {
+              "word": "My",
+              "pronunciation": "my"
+            },
+            {
+              "word": "bag",
+              "pronunciation": "bag"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "empty",
+              "pronunciation": "empty"
+            },
+            {
+              "word": "at",
+              "pronunciation": "at"
+            },
+            {
+              "word": "first.",
+              "pronunciation": "first"
+            },
+            {
+              "word": "We",
+              "pronunciation": "we"
+            },
+            {
+              "word": "use",
+              "pronunciation": "use"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "scale",
+              "pronunciation": "scale"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "weigh",
+              "pronunciation": "weigh"
+            },
+            {
+              "word": "some",
+              "pronunciation": "some"
+            },
+            {
+              "word": "fruit.",
+              "pronunciation": "fruit"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "want",
+              "pronunciation": "want"
+            },
+            {
+              "word": "an",
+              "pronunciation": "an"
+            },
+            {
+              "word": "extra",
+              "pronunciation": "extra"
+            },
+            {
+              "word": "treat,",
+              "pronunciation": "treat"
+            },
+            {
+              "word": "but",
+              "pronunciation": "but"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "force",
+              "pronunciation": "force"
+            },
+            {
+              "word": "myself",
+              "pronunciation": "myself"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "stop.",
+              "pronunciation": "stop"
+            },
+            {
+              "word": "If",
+              "pronunciation": "if"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "have",
+              "pronunciation": "have"
+            },
+            {
+              "word": "any",
+              "pronunciation": "any"
+            },
+            {
+              "word": "doubt,",
+              "pronunciation": "doubt"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "refer",
+              "pronunciation": "refer"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "list.",
+              "pronunciation": "list"
+            }
+          ]
+        },
+        {
+          "text": "On day seven of our trip, we join a big group on a boat. The ocean is clear and blue. I press my hands on the metal bar and see a huge fish swim by. My mouth opens wide in joy. It is the final class event of the year!",
+          "words": [
+            {
+              "word": "On",
+              "pronunciation": "on"
+            },
+            {
+              "word": "day",
+              "pronunciation": "day"
+            },
+            {
+              "word": "seven",
+              "pronunciation": "seven"
+            },
+            {
+              "word": "of",
+              "pronunciation": "of"
+            },
+            {
+              "word": "our",
+              "pronunciation": "our"
+            },
+            {
+              "word": "trip,",
+              "pronunciation": "trip"
+            },
+            {
+              "word": "we",
+              "pronunciation": "we"
+            },
+            {
+              "word": "join",
+              "pronunciation": "join"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "big",
+              "pronunciation": "big"
+            },
+            {
+              "word": "group",
+              "pronunciation": "group"
+            },
+            {
+              "word": "on",
+              "pronunciation": "on"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "boat.",
+              "pronunciation": "boat"
+            },
+            {
+              "word": "The",
+              "pronunciation": "the_before_vowel"
+            },
+            {
+              "word": "ocean",
+              "pronunciation": "ocean"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "clear",
+              "pronunciation": "clear"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "blue.",
+              "pronunciation": "blue"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "press",
+              "pronunciation": "press"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "hands",
+              "pronunciation": "hands"
+            },
+            {
+              "word": "on",
+              "pronunciation": "on"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "metal",
+              "pronunciation": "metal"
+            },
+            {
+              "word": "bar",
+              "pronunciation": "bar"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "see",
+              "pronunciation": "see"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "huge",
+              "pronunciation": "huge"
+            },
+            {
+              "word": "fish",
+              "pronunciation": "fish"
+            },
+            {
+              "word": "swim",
+              "pronunciation": "swim"
+            },
+            {
+              "word": "by.",
+              "pronunciation": "by"
+            },
+            {
+              "word": "My",
+              "pronunciation": "my"
+            },
+            {
+              "word": "mouth",
+              "pronunciation": "mouth"
+            },
+            {
+              "word": "opens",
+              "pronunciation": "opens"
+            },
+            {
+              "word": "wide",
+              "pronunciation": "wide"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "joy.",
+              "pronunciation": "joy"
+            },
+            {
+              "word": "It",
+              "pronunciation": "it"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "final",
+              "pronunciation": "final"
+            },
+            {
+              "word": "class",
+              "pronunciation": "class"
+            },
+            {
+              "word": "event",
+              "pronunciation": "event"
+            },
+            {
+              "word": "of",
+              "pronunciation": "of"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "year!",
+              "pronunciation": "year"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupId": 6,
+      "startIndex": 25,
+      "count": 5,
+      "sentences": [
+        {
+          "text": "My dad told me a funny joke.",
+          "words": [
+            {
+              "word": "My",
+              "pronunciation": "my"
+            },
+            {
+              "word": "dad",
+              "pronunciation": "dad"
+            },
+            {
+              "word": "told",
+              "pronunciation": "told"
+            },
+            {
+              "word": "me",
+              "pronunciation": "me"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "funny",
+              "pronunciation": "funny"
+            },
+            {
+              "word": "joke.",
+              "pronunciation": "joke"
+            }
+          ]
+        },
+        {
+          "text": "We leave for camp early in the day.",
+          "words": [
+            {
+              "word": "We",
+              "pronunciation": "we"
+            },
+            {
+              "word": "leave",
+              "pronunciation": "leave"
+            },
+            {
+              "word": "for",
+              "pronunciation": "for"
+            },
+            {
+              "word": "camp",
+              "pronunciation": "camp"
+            },
+            {
+              "word": "early",
+              "pronunciation": "early"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "day.",
+              "pronunciation": "day"
+            }
+          ]
+        },
+        {
+          "text": "I put my books in the right order.",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "put",
+              "pronunciation": "put"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "books",
+              "pronunciation": "books"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "right",
+              "pronunciation": "right"
+            },
+            {
+              "word": "order.",
+              "pronunciation": "order"
+            }
+          ]
+        },
+        {
+          "text": "I paint on a big sheet of paper. I make a round shape that is shiny and quite funny. I print my name in the lower right corner. Then I get a smart idea! I turn the paper into a model with a fine point. I share it with Mum, and she says I have good skill. I shall paint more often!",
+          "words": [
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "paint",
+              "pronunciation": "paint"
+            },
+            {
+              "word": "on",
+              "pronunciation": "on"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "big",
+              "pronunciation": "big"
+            },
+            {
+              "word": "sheet",
+              "pronunciation": "sheet"
+            },
+            {
+              "word": "of",
+              "pronunciation": "of"
+            },
+            {
+              "word": "paper.",
+              "pronunciation": "paper"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "make",
+              "pronunciation": "make"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "round",
+              "pronunciation": "round"
+            },
+            {
+              "word": "shape",
+              "pronunciation": "shape"
+            },
+            {
+              "word": "that",
+              "pronunciation": "that"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "shiny",
+              "pronunciation": "shiny"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "quite",
+              "pronunciation": "quite"
+            },
+            {
+              "word": "funny.",
+              "pronunciation": "funny"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "print",
+              "pronunciation": "print"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "name",
+              "pronunciation": "name"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "lower",
+              "pronunciation": "lower"
+            },
+            {
+              "word": "right",
+              "pronunciation": "right"
+            },
+            {
+              "word": "corner.",
+              "pronunciation": "corner"
+            },
+            {
+              "word": "Then",
+              "pronunciation": "then"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "get",
+              "pronunciation": "get"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "smart",
+              "pronunciation": "smart"
+            },
+            {
+              "word": "idea!",
+              "pronunciation": "idea"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "turn",
+              "pronunciation": "turn"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "paper",
+              "pronunciation": "paper"
+            },
+            {
+              "word": "into",
+              "pronunciation": "into"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "model",
+              "pronunciation": "model"
+            },
+            {
+              "word": "with",
+              "pronunciation": "with"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "fine",
+              "pronunciation": "fine"
+            },
+            {
+              "word": "point.",
+              "pronunciation": "point"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "share",
+              "pronunciation": "share"
+            },
+            {
+              "word": "it",
+              "pronunciation": "it"
+            },
+            {
+              "word": "with",
+              "pronunciation": "with"
+            },
+            {
+              "word": "Mum,",
+              "pronunciation": "mum"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "she",
+              "pronunciation": "she"
+            },
+            {
+              "word": "says",
+              "pronunciation": "says"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "have",
+              "pronunciation": "have"
+            },
+            {
+              "word": "good",
+              "pronunciation": "good"
+            },
+            {
+              "word": "skill.",
+              "pronunciation": "skill"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "shall",
+              "pronunciation": "shall"
+            },
+            {
+              "word": "paint",
+              "pronunciation": "paint"
+            },
+            {
+              "word": "more",
+              "pronunciation": "more"
+            },
+            {
+              "word": "often!",
+              "pronunciation": "often"
+            }
+          ]
+        },
+        {
+          "text": "On the pitch, Mr Tan showed us how to play football. We had to learn to pass the ball. The two teams were equal, so it was a fair game. Ben meant to score when the ball moved to him, but he missed. He needs more time to practise. “I’m gonna score next time!” he said.",
+          "words": [
+            {
+              "word": "On",
+              "pronunciation": "on"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "pitch,",
+              "pronunciation": "pitch"
+            },
+            {
+              "word": "Mr",
+              "pronunciation": "mr"
+            },
+            {
+              "word": "Tan",
+              "pronunciation": "tan"
+            },
+            {
+              "word": "showed",
+              "pronunciation": "showed"
+            },
+            {
+              "word": "us",
+              "pronunciation": "us"
+            },
+            {
+              "word": "how",
+              "pronunciation": "how"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "play",
+              "pronunciation": "play"
+            },
+            {
+              "word": "football.",
+              "pronunciation": "football"
+            },
+            {
+              "word": "We",
+              "pronunciation": "we"
+            },
+            {
+              "word": "had",
+              "pronunciation": "had"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "learn",
+              "pronunciation": "learn"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "pass",
+              "pronunciation": "pass"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "ball.",
+              "pronunciation": "ball"
+            },
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "two",
+              "pronunciation": "two"
+            },
+            {
+              "word": "teams",
+              "pronunciation": "teams"
+            },
+            {
+              "word": "were",
+              "pronunciation": "were"
+            },
+            {
+              "word": "equal,",
+              "pronunciation": "equal"
+            },
+            {
+              "word": "so",
+              "pronunciation": "so"
+            },
+            {
+              "word": "it",
+              "pronunciation": "it"
+            },
+            {
+              "word": "was",
+              "pronunciation": "was"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "fair",
+              "pronunciation": "fair"
+            },
+            {
+              "word": "game.",
+              "pronunciation": "game"
+            },
+            {
+              "word": "Ben",
+              "pronunciation": "ben"
+            },
+            {
+              "word": "meant",
+              "pronunciation": "meant"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "score",
+              "pronunciation": "score"
+            },
+            {
+              "word": "when",
+              "pronunciation": "when"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "ball",
+              "pronunciation": "ball"
+            },
+            {
+              "word": "moved",
+              "pronunciation": "moved"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "him,",
+              "pronunciation": "him"
+            },
+            {
+              "word": "but",
+              "pronunciation": "but"
+            },
+            {
+              "word": "he",
+              "pronunciation": "he"
+            },
+            {
+              "word": "missed.",
+              "pronunciation": "missed"
+            },
+            {
+              "word": "He",
+              "pronunciation": "he"
+            },
+            {
+              "word": "needs",
+              "pronunciation": "needs"
+            },
+            {
+              "word": "more",
+              "pronunciation": "more"
+            },
+            {
+              "word": "time",
+              "pronunciation": "time"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "practise.",
+              "pronunciation": "practise"
+            },
+            {
+              "word": "“I’m",
+              "pronunciation": "im"
+            },
+            {
+              "word": "gonna",
+              "pronunciation": "gonna"
+            },
+            {
+              "word": "score",
+              "pronunciation": "score"
+            },
+            {
+              "word": "next",
+              "pronunciation": "next"
+            },
+            {
+              "word": "time!”",
+              "pronunciation": "time"
+            },
+            {
+              "word": "he",
+              "pronunciation": "he"
+            },
+            {
+              "word": "said.",
+              "pronunciation": "said"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupId": 7,
+      "startIndex": 30,
+      "count": 5,
+      "sentences": [
+        {
+          "text": "We shall go to the park after lunch.",
+          "words": [
+            {
+              "word": "We",
+              "pronunciation": "we"
+            },
+            {
+              "word": "shall",
+              "pronunciation": "shall"
+            },
+            {
+              "word": "go",
+              "pronunciation": "go"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "park",
+              "pronunciation": "park"
+            },
+            {
+              "word": "after",
+              "pronunciation": "after"
+            },
+            {
+              "word": "lunch.",
+              "pronunciation": "lunch"
+            }
+          ]
+        },
+        {
+          "text": "My dog does a silly dance for food.",
+          "words": [
+            {
+              "word": "My",
+              "pronunciation": "my"
+            },
+            {
+              "word": "dog",
+              "pronunciation": "dog"
+            },
+            {
+              "word": "does",
+              "pronunciation": "does"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "silly",
+              "pronunciation": "silly"
+            },
+            {
+              "word": "dance",
+              "pronunciation": "dance"
+            },
+            {
+              "word": "for",
+              "pronunciation": "for"
+            },
+            {
+              "word": "food.",
+              "pronunciation": "food"
+            }
+          ]
+        },
+        {
+          "text": "Each of us gets an equal share of the cake.",
+          "words": [
+            {
+              "word": "Each",
+              "pronunciation": "each"
+            },
+            {
+              "word": "of",
+              "pronunciation": "of"
+            },
+            {
+              "word": "us",
+              "pronunciation": "us"
+            },
+            {
+              "word": "gets",
+              "pronunciation": "gets"
+            },
+            {
+              "word": "an",
+              "pronunciation": "an"
+            },
+            {
+              "word": "equal",
+              "pronunciation": "equal"
+            },
+            {
+              "word": "share",
+              "pronunciation": "share"
+            },
+            {
+              "word": "of",
+              "pronunciation": "of"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "cake.",
+              "pronunciation": "cake"
+            }
+          ]
+        },
+        {
+          "text": "One day, Mia and her dad went to a local shop in the north. As they enter, they see a tall plant by the door. The price of a pound of apples is good. A kind lady serves them with a smile. Since the line is short, they do not wait long. Dad says they might cross the road to visit one more place.",
+          "words": [
+            {
+              "word": "One",
+              "pronunciation": "one"
+            },
+            {
+              "word": "day,",
+              "pronunciation": "day"
+            },
+            {
+              "word": "Mia",
+              "pronunciation": "mia"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "her",
+              "pronunciation": "her"
+            },
+            {
+              "word": "dad",
+              "pronunciation": "dad"
+            },
+            {
+              "word": "went",
+              "pronunciation": "went"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "local",
+              "pronunciation": "local"
+            },
+            {
+              "word": "shop",
+              "pronunciation": "shop"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "north.",
+              "pronunciation": "north"
+            },
+            {
+              "word": "As",
+              "pronunciation": "as"
+            },
+            {
+              "word": "they",
+              "pronunciation": "they"
+            },
+            {
+              "word": "enter,",
+              "pronunciation": "enter"
+            },
+            {
+              "word": "they",
+              "pronunciation": "they"
+            },
+            {
+              "word": "see",
+              "pronunciation": "see"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "tall",
+              "pronunciation": "tall"
+            },
+            {
+              "word": "plant",
+              "pronunciation": "plant"
+            },
+            {
+              "word": "by",
+              "pronunciation": "by"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "door.",
+              "pronunciation": "door"
+            },
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "price",
+              "pronunciation": "price"
+            },
+            {
+              "word": "of",
+              "pronunciation": "of"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "pound",
+              "pronunciation": "pound"
+            },
+            {
+              "word": "of",
+              "pronunciation": "of"
+            },
+            {
+              "word": "apples",
+              "pronunciation": "apples"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "good.",
+              "pronunciation": "good"
+            },
+            {
+              "word": "A",
+              "pronunciation": "a"
+            },
+            {
+              "word": "kind",
+              "pronunciation": "kind"
+            },
+            {
+              "word": "lady",
+              "pronunciation": "lady"
+            },
+            {
+              "word": "serves",
+              "pronunciation": "serves"
+            },
+            {
+              "word": "them",
+              "pronunciation": "them"
+            },
+            {
+              "word": "with",
+              "pronunciation": "with"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "smile.",
+              "pronunciation": "smile"
+            },
+            {
+              "word": "Since",
+              "pronunciation": "since"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "line",
+              "pronunciation": "line"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "short,",
+              "pronunciation": "short"
+            },
+            {
+              "word": "they",
+              "pronunciation": "they"
+            },
+            {
+              "word": "do",
+              "pronunciation": "do"
+            },
+            {
+              "word": "not",
+              "pronunciation": "not"
+            },
+            {
+              "word": "wait",
+              "pronunciation": "wait"
+            },
+            {
+              "word": "long.",
+              "pronunciation": "long"
+            },
+            {
+              "word": "Dad",
+              "pronunciation": "dad"
+            },
+            {
+              "word": "says",
+              "pronunciation": "says"
+            },
+            {
+              "word": "they",
+              "pronunciation": "they"
+            },
+            {
+              "word": "might",
+              "pronunciation": "might"
+            },
+            {
+              "word": "cross",
+              "pronunciation": "cross"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "road",
+              "pronunciation": "road"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "visit",
+              "pronunciation": "visit"
+            },
+            {
+              "word": "one",
+              "pronunciation": "one"
+            },
+            {
+              "word": "more",
+              "pronunciation": "more"
+            },
+            {
+              "word": "place.",
+              "pronunciation": "place"
+            }
+          ]
+        },
+        {
+          "text": "A tiny mouse lives in the wall by my bed. Each day, I put some bread down and say, “Hello, mouse.” I give a soft knock on the wall and wait. Maybe it will come out to eat. I stay quiet, but my heart beats like a clock!",
+          "words": [
+            {
+              "word": "A",
+              "pronunciation": "a"
+            },
+            {
+              "word": "tiny",
+              "pronunciation": "tiny"
+            },
+            {
+              "word": "mouse",
+              "pronunciation": "mouse"
+            },
+            {
+              "word": "lives",
+              "pronunciation": "lives"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "wall",
+              "pronunciation": "wall"
+            },
+            {
+              "word": "by",
+              "pronunciation": "by"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "bed.",
+              "pronunciation": "bed"
+            },
+            {
+              "word": "Each",
+              "pronunciation": "each"
+            },
+            {
+              "word": "day,",
+              "pronunciation": "day"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "put",
+              "pronunciation": "put"
+            },
+            {
+              "word": "some",
+              "pronunciation": "some"
+            },
+            {
+              "word": "bread",
+              "pronunciation": "bread"
+            },
+            {
+              "word": "down",
+              "pronunciation": "down"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "say,",
+              "pronunciation": "say"
+            },
+            {
+              "word": "“Hello,",
+              "pronunciation": "hello"
+            },
+            {
+              "word": "mouse.”",
+              "pronunciation": "mouse"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "give",
+              "pronunciation": "give"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "soft",
+              "pronunciation": "soft"
+            },
+            {
+              "word": "knock",
+              "pronunciation": "knock"
+            },
+            {
+              "word": "on",
+              "pronunciation": "on"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "wall",
+              "pronunciation": "wall"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "wait.",
+              "pronunciation": "wait"
+            },
+            {
+              "word": "Maybe",
+              "pronunciation": "maybe"
+            },
+            {
+              "word": "it",
+              "pronunciation": "it"
+            },
+            {
+              "word": "will",
+              "pronunciation": "will"
+            },
+            {
+              "word": "come",
+              "pronunciation": "come"
+            },
+            {
+              "word": "out",
+              "pronunciation": "out"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "eat.",
+              "pronunciation": "eat"
+            },
+            {
+              "word": "I",
+              "pronunciation": "i"
+            },
+            {
+              "word": "stay",
+              "pronunciation": "stay"
+            },
+            {
+              "word": "quiet,",
+              "pronunciation": "quiet"
+            },
+            {
+              "word": "but",
+              "pronunciation": "but"
+            },
+            {
+              "word": "my",
+              "pronunciation": "my"
+            },
+            {
+              "word": "heart",
+              "pronunciation": "heart"
+            },
+            {
+              "word": "beats",
+              "pronunciation": "beats"
+            },
+            {
+              "word": "like",
+              "pronunciation": "like"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "clock!",
+              "pronunciation": "clock"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "groupId": 8,
+      "startIndex": 35,
+      "count": 5,
+      "sentences": [
+        {
+          "text": "The race is a major event at camp.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "race",
+              "pronunciation": "race"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "major",
+              "pronunciation": "major"
+            },
+            {
+              "word": "event",
+              "pronunciation": "event"
+            },
+            {
+              "word": "at",
+              "pronunciation": "at"
+            },
+            {
+              "word": "camp.",
+              "pronunciation": "camp"
+            }
+          ]
+        },
+        {
+          "text": "The house is very quiet at night.",
+          "words": [
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "house",
+              "pronunciation": "house"
+            },
+            {
+              "word": "is",
+              "pronunciation": "is"
+            },
+            {
+              "word": "very",
+              "pronunciation": "very"
+            },
+            {
+              "word": "quiet",
+              "pronunciation": "quiet"
+            },
+            {
+              "word": "at",
+              "pronunciation": "at"
+            },
+            {
+              "word": "night.",
+              "pronunciation": "night"
+            }
+          ]
+        },
+        {
+          "text": "A fairy uses magic to help the lost girl.",
+          "words": [
+            {
+              "word": "A",
+              "pronunciation": "a"
+            },
+            {
+              "word": "fairy",
+              "pronunciation": "fairy"
+            },
+            {
+              "word": "uses",
+              "pronunciation": "uses"
+            },
+            {
+              "word": "magic",
+              "pronunciation": "magic"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "help",
+              "pronunciation": "help"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "lost",
+              "pronunciation": "lost"
+            },
+            {
+              "word": "girl.",
+              "pronunciation": "girl"
+            }
+          ]
+        },
+        {
+          "text": "Mr Lee was our guide on a class trip to the shore. He told us to take care near the wet rocks. The water level was high, so it made sense to stay back. We began our march along the shore and saw a wide range of rocks. Then Mr Lee gave us a silly game to solve. We had to find at least five rocks and make a shape. Each group had to prove that they followed the rules. In the end, Mr Lee granted a small prize to the best team.",
+          "words": [
+            {
+              "word": "Mr",
+              "pronunciation": "mr"
+            },
+            {
+              "word": "Lee",
+              "pronunciation": "lee"
+            },
+            {
+              "word": "was",
+              "pronunciation": "was"
+            },
+            {
+              "word": "our",
+              "pronunciation": "our"
+            },
+            {
+              "word": "guide",
+              "pronunciation": "guide"
+            },
+            {
+              "word": "on",
+              "pronunciation": "on"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "class",
+              "pronunciation": "class"
+            },
+            {
+              "word": "trip",
+              "pronunciation": "trip"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "shore.",
+              "pronunciation": "shore"
+            },
+            {
+              "word": "He",
+              "pronunciation": "he"
+            },
+            {
+              "word": "told",
+              "pronunciation": "told"
+            },
+            {
+              "word": "us",
+              "pronunciation": "us"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "take",
+              "pronunciation": "take"
+            },
+            {
+              "word": "care",
+              "pronunciation": "care"
+            },
+            {
+              "word": "near",
+              "pronunciation": "near"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "wet",
+              "pronunciation": "wet"
+            },
+            {
+              "word": "rocks.",
+              "pronunciation": "rocks"
+            },
+            {
+              "word": "The",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "water",
+              "pronunciation": "water"
+            },
+            {
+              "word": "level",
+              "pronunciation": "level"
+            },
+            {
+              "word": "was",
+              "pronunciation": "was"
+            },
+            {
+              "word": "high,",
+              "pronunciation": "high"
+            },
+            {
+              "word": "so",
+              "pronunciation": "so"
+            },
+            {
+              "word": "it",
+              "pronunciation": "it"
+            },
+            {
+              "word": "made",
+              "pronunciation": "made"
+            },
+            {
+              "word": "sense",
+              "pronunciation": "sense"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "stay",
+              "pronunciation": "stay"
+            },
+            {
+              "word": "back.",
+              "pronunciation": "back"
+            },
+            {
+              "word": "We",
+              "pronunciation": "we"
+            },
+            {
+              "word": "began",
+              "pronunciation": "began"
+            },
+            {
+              "word": "our",
+              "pronunciation": "our"
+            },
+            {
+              "word": "march",
+              "pronunciation": "march"
+            },
+            {
+              "word": "along",
+              "pronunciation": "along"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "shore",
+              "pronunciation": "shore"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "saw",
+              "pronunciation": "saw"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "wide",
+              "pronunciation": "wide"
+            },
+            {
+              "word": "range",
+              "pronunciation": "range"
+            },
+            {
+              "word": "of",
+              "pronunciation": "of"
+            },
+            {
+              "word": "rocks.",
+              "pronunciation": "rocks"
+            },
+            {
+              "word": "Then",
+              "pronunciation": "then"
+            },
+            {
+              "word": "Mr",
+              "pronunciation": "mr"
+            },
+            {
+              "word": "Lee",
+              "pronunciation": "lee"
+            },
+            {
+              "word": "gave",
+              "pronunciation": "gave"
+            },
+            {
+              "word": "us",
+              "pronunciation": "us"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "silly",
+              "pronunciation": "silly"
+            },
+            {
+              "word": "game",
+              "pronunciation": "game"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "solve.",
+              "pronunciation": "solve"
+            },
+            {
+              "word": "We",
+              "pronunciation": "we"
+            },
+            {
+              "word": "had",
+              "pronunciation": "had"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "find",
+              "pronunciation": "find"
+            },
+            {
+              "word": "at",
+              "pronunciation": "at"
+            },
+            {
+              "word": "least",
+              "pronunciation": "least"
+            },
+            {
+              "word": "five",
+              "pronunciation": "five"
+            },
+            {
+              "word": "rocks",
+              "pronunciation": "rocks"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "make",
+              "pronunciation": "make"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "shape.",
+              "pronunciation": "shape"
+            },
+            {
+              "word": "Each",
+              "pronunciation": "each"
+            },
+            {
+              "word": "group",
+              "pronunciation": "group"
+            },
+            {
+              "word": "had",
+              "pronunciation": "had"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "prove",
+              "pronunciation": "prove"
+            },
+            {
+              "word": "that",
+              "pronunciation": "that"
+            },
+            {
+              "word": "they",
+              "pronunciation": "they"
+            },
+            {
+              "word": "followed",
+              "pronunciation": "followed"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "rules.",
+              "pronunciation": "rules"
+            },
+            {
+              "word": "In",
+              "pronunciation": "in"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_vowel"
+            },
+            {
+              "word": "end,",
+              "pronunciation": "end"
+            },
+            {
+              "word": "Mr",
+              "pronunciation": "mr"
+            },
+            {
+              "word": "Lee",
+              "pronunciation": "lee"
+            },
+            {
+              "word": "granted",
+              "pronunciation": "granted"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "small",
+              "pronunciation": "small"
+            },
+            {
+              "word": "prize",
+              "pronunciation": "prize"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "best",
+              "pronunciation": "best"
+            },
+            {
+              "word": "team.",
+              "pronunciation": "team"
+            }
+          ]
+        },
+        {
+          "text": "Emma wore a fancy dress for the class play. She was a royal lady. She used a soft cover to keep her hat safe. In the play, a judge sat in court and asked her a question. Emma gave a clear reply. A toy plane was also shown as a major part of the play. By the end, Emma was known as the star of the show!",
+          "words": [
+            {
+              "word": "Emma",
+              "pronunciation": "emma"
+            },
+            {
+              "word": "wore",
+              "pronunciation": "wore"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "fancy",
+              "pronunciation": "fancy"
+            },
+            {
+              "word": "dress",
+              "pronunciation": "dress"
+            },
+            {
+              "word": "for",
+              "pronunciation": "for"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "class",
+              "pronunciation": "class"
+            },
+            {
+              "word": "play.",
+              "pronunciation": "play"
+            },
+            {
+              "word": "She",
+              "pronunciation": "she"
+            },
+            {
+              "word": "was",
+              "pronunciation": "was"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "royal",
+              "pronunciation": "royal"
+            },
+            {
+              "word": "lady.",
+              "pronunciation": "lady"
+            },
+            {
+              "word": "She",
+              "pronunciation": "she"
+            },
+            {
+              "word": "used",
+              "pronunciation": "used"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "soft",
+              "pronunciation": "soft"
+            },
+            {
+              "word": "cover",
+              "pronunciation": "cover"
+            },
+            {
+              "word": "to",
+              "pronunciation": "to"
+            },
+            {
+              "word": "keep",
+              "pronunciation": "keep"
+            },
+            {
+              "word": "her",
+              "pronunciation": "her"
+            },
+            {
+              "word": "hat",
+              "pronunciation": "hat"
+            },
+            {
+              "word": "safe.",
+              "pronunciation": "safe"
+            },
+            {
+              "word": "In",
+              "pronunciation": "in"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "play,",
+              "pronunciation": "play"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "judge",
+              "pronunciation": "judge"
+            },
+            {
+              "word": "sat",
+              "pronunciation": "sat"
+            },
+            {
+              "word": "in",
+              "pronunciation": "in"
+            },
+            {
+              "word": "court",
+              "pronunciation": "court"
+            },
+            {
+              "word": "and",
+              "pronunciation": "and"
+            },
+            {
+              "word": "asked",
+              "pronunciation": "asked"
+            },
+            {
+              "word": "her",
+              "pronunciation": "her"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "question.",
+              "pronunciation": "question"
+            },
+            {
+              "word": "Emma",
+              "pronunciation": "emma"
+            },
+            {
+              "word": "gave",
+              "pronunciation": "gave"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "clear",
+              "pronunciation": "clear"
+            },
+            {
+              "word": "reply.",
+              "pronunciation": "reply"
+            },
+            {
+              "word": "A",
+              "pronunciation": "a"
+            },
+            {
+              "word": "toy",
+              "pronunciation": "toy"
+            },
+            {
+              "word": "plane",
+              "pronunciation": "plane"
+            },
+            {
+              "word": "was",
+              "pronunciation": "was"
+            },
+            {
+              "word": "also",
+              "pronunciation": "also"
+            },
+            {
+              "word": "shown",
+              "pronunciation": "shown"
+            },
+            {
+              "word": "as",
+              "pronunciation": "as"
+            },
+            {
+              "word": "a",
+              "pronunciation": "a"
+            },
+            {
+              "word": "major",
+              "pronunciation": "major"
+            },
+            {
+              "word": "part",
+              "pronunciation": "part"
+            },
+            {
+              "word": "of",
+              "pronunciation": "of"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "play.",
+              "pronunciation": "play"
+            },
+            {
+              "word": "By",
+              "pronunciation": "by"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_vowel"
+            },
+            {
+              "word": "end,",
+              "pronunciation": "end"
+            },
+            {
+              "word": "Emma",
+              "pronunciation": "emma"
+            },
+            {
+              "word": "was",
+              "pronunciation": "was"
+            },
+            {
+              "word": "known",
+              "pronunciation": "known"
+            },
+            {
+              "word": "as",
+              "pronunciation": "as"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "star",
+              "pronunciation": "star"
+            },
+            {
+              "word": "of",
+              "pronunciation": "of"
+            },
+            {
+              "word": "the",
+              "pronunciation": "the_before_consonant"
+            },
+            {
+              "word": "show!",
+              "pronunciation": "show"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
