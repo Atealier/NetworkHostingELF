@@ -1380,7 +1380,7 @@
             },
             {
               "word": "close,",
-              "pronunciation": "close"
+              "pronunciation": "close_near"
             },
             {
               "word": "and",
@@ -3472,7 +3472,7 @@
             },
             {
               "word": "lives",
-              "pronunciation": "lives"
+              "pronunciation": "lives_verb"
             },
             {
               "word": "in",
@@ -4212,7 +4212,7 @@
             },
             {
               "word": "used",
-              "pronunciation": "used"
+              "pronunciation": "used_verb"
             },
             {
               "word": "a",

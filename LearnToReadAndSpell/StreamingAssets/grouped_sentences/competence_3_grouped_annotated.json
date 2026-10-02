@@ -1011,7 +1011,7 @@
           ]
         },
         {
-          "text": "We play a fun game at home. I hide in a huge box and keep my head down. Dad looks all over and can not find me!",
+          "text": "We play a fun game at home. I hide in a huge box and keep my head down. Dad looks all over and cannot find me!",
           "words": [
             {
               "word": "We",
@@ -2448,7 +2448,7 @@
             },
             {
               "word": "used",
-              "pronunciation": "used"
+              "pronunciation": "used_adjective"
             },
             {
               "word": "to",
@@ -2504,7 +2504,7 @@
             },
             {
               "word": "lives.",
-              "pronunciation": "lives"
+              "pronunciation": "lives_noun"
             },
             {
               "word": "I",

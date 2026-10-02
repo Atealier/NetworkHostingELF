@@ -403,7 +403,7 @@
             },
             {
               "word": "close!",
-              "pronunciation": "close"
+              "pronunciation": "close_near"
             }
           ]
         },
@@ -4192,7 +4192,7 @@
             },
             {
               "word": "close.",
-              "pronunciation": "close"
+              "pronunciation": "close_near"
             },
             {
               "word": "Those",
