@@ -130,6 +130,7 @@
 			}
 
 			createUnityInstance(canvas, config, progressHandler).then(function (instance) {
+				window.unityInstance = instance;
 				canvas = instance.Module.canvas;
 				resizeGame();
 			});
