@@ -99,48 +99,25 @@
 				const vw = window.innerWidth;
 				const vh = window.innerHeight;
 
-				canvas.style.width = vw + "px";
-				canvas.style.height = vh + "px";
+				const isTouch = navigator.maxTouchPoints > 1 && window.matchMedia("(pointer: coarse)").matches;
+				const portrait = vh > vw;
+
+				let width = vw, height = vh;
+
+				if (isTouch && portrait) {
+					// fixed 16:9 box, fitted to screen width
+					width = vw;
+					height = vw * 9 / 16;
+				}
+
+				canvas.style.width = width + "px";
+				canvas.style.height = height + "px";
 				container.style.width = vw + "px";
 				container.style.height = vh + "px";
 
 				if (typeof unityInstance !== "undefined") {
 					unityInstance.SendMessage("Main Camera", "UpdateCamera");
 				}
-				// const container = document.getElementById('gameContainer');
-				// const canvas = container.querySelector('canvas');
-				// const vw = window.innerWidth;
-				// const vh = window.innerHeight;
-
-				// const isMobile = /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
-				// let ratio;
-
-				// if(vw < vh) {
-				// 	ratio = 3 / 4;
-				// } else{
-				// 	ratio = 16 / 9;
-				// }
-				
-
-				// let width, height;
-
-				// if(vw / vh > ratio){
-				// 	height = vh;
-				// 	width = vh * ratio;
-				// }
-				// else {
-				// 	width = vw;
-				// 	height = vw / ratio;
-				// }
-
-				// canvas.style.width = width + "px";
-				// canvas.style.height = height + "px";
-				// container.style.width = vw + "px";
-				// container.style.height = vh + "px";
-
-				// if (typeof unityInstance !== "undefined") {
-    			// 	unityInstance.SendMessage("Main Camera", "UpdateCamera");
-  				// }
 			}
 
 			createUnityInstance(canvas, config, progressHandler).then(function (instance) {
